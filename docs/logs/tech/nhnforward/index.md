@@ -8,10 +8,6 @@
 - 데이터를 다루는 모든 사람들의 축제! 데이터야놀자에서 대한민국 최초로 평일 낮시간 발표중에 맥주를 나누어 마시며 "놀자"를 외쳐 보았습니다. 이 글도 이러한 다소 무리적 시각이 담겨 있습니다.
 :::
 
-::: warning 목차
-[[toc]]
-:::
-
 ### FORWARD
 ```
 이태원 참사 유가족들이 모였다. 기자회견*이 있었다.
@@ -59,7 +55,7 @@ NHN FORWARD 구름 처럼 많은 인파가 모였다.
 마지막으로 역시 이렇게 많은 사람이 모인 이유가 있었다. 
 기술행사지만 사람이 중심에 있는 따뜻한 행사였다.
 ```
-![An image](../images/nhnforword/crowd.webp)
+![An image](../../../../images/nhnforword/crowd.webp)
 
 ### HOT PACK DOORAY
 ```
@@ -72,11 +68,11 @@ NHN FORWARD 구름 처럼 많은 인파가 모였다.
 협업에는 무조건 두레이다. because 만드는 사람이 즐거운 Dooray 니까!
 행사 끝까지 많은 분들께 "핫팩" 하나라도 더 챙겨 보내려 힘씀 두레이 개발자들 멋졌다.
 ```
-![dooray developer](../images/nhnforword/dooray.webp)
+![dooray developer](../../../../images/nhnforword/dooray.webp)
 
 ### banUH
 #### 개발할 땐 "어?" 금지
-![banUH](../images/nhnforword/a.webp)
+![banUH](../../../../images/nhnforword/a.webp)
 
 ### REFERENCE
 - [NHN](https://www.nhn.com/ko/company/companyInfo.nhn) 회사소개

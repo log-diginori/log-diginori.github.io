@@ -1,11 +1,13 @@
 {
   "name": "log-diginori.github.io",
   "version": "0.1.0",
-  "description": "grep -E 'oepn|source|mind' log.diginori",
+  "description": "grep -E 'open|source|mind' log.diginori",
   "main": "index.js",
   "author": "becky2sawyer <becky2sawyer@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.53",
+    "@vuepress/plugin-search": "^2.0.0-beta.53",
     "vuepress": "^2.0.0-beta.53"
   },
   "scripts": {
