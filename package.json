@@ -4,5 +4,12 @@
   "description": "grep -E 'oepn|source|mind' log.diginori",
   "main": "index.js",
   "author": "becky2sawyer <becky2sawyer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
 }
