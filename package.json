@@ -1,0 +1,8 @@
+{
+  "name": "log-diginori.github.io",
+  "version": "0.1.0",
+  "description": "grep -E 'oepn|source|mind' log.diginori",
+  "main": "index.js",
+  "author": "becky2sawyer <becky2sawyer@gmail.com>",
+  "license": "MIT"
+}
