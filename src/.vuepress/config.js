@@ -5,6 +5,8 @@ import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default  {
+  sourceDir: 'src',
+  dest: 'docs/',
   title: 'loG',
 
   plugins: [
@@ -27,11 +29,12 @@ export default  {
     repo: 'https://github.com/log-diginori/log-diginori.github.io',
     repoLabel: 'code',
     
-    contributors: true,
+    contributors: false,
 
     editLink: true,
     editLinkText: '✏️',
-
+    
+    lastUpdated: true,
     lastUpdatedText: 'Last Updated',
     
     colorMode: 'auto',
