@@ -5,15 +5,17 @@ heroImageDark: images/wood-color.svg
 
 heroText: 'loG'
 
-tagline: $ grep -E 'open|source|mind' log > diginori
+tagline: $ grep -E 'open|source|mind' world >> loG
 
 actions:
-  # - text: philosophy travel
-  #   link: /guide/getting-started.html
-  #   type: primary
-  - text: tail -f diginori
+  - text: tail -f loG
     link: /logs/
     type: secondary
-  # - text: physics
-  #   link: /physics/
+
+# features:
+# - title: Simplicity First
+#   details: Minimal setup with markdown-centered project structure helps you focus on writing.
+
+
+footer: The Adventures of Tom and Becky ©digiNORI
 ---

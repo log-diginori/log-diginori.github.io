@@ -56,7 +56,8 @@ export default  {
     },
 
     navbar: [
-      {text: 'tail -f logs', link: '/logs/'},
+      {text: 'tail -f loG', link: '/logs/'},
+      {text: 'meplace', link: '/logs/travel/meplace.md'},
       // {
       //   text: 'menu',
       //   children: [
@@ -72,7 +73,9 @@ export default  {
           text: 'Technology',
           collapsible: true,
           children: [
-            '/logs/tech/nhnforward/',
+            '/logs/tech/nhn-forward/',
+            '/logs/tech/naver-cloud-summit/',
+            '/logs/tech/google-cloud-innovators-hive/',
           ],
         },
         {
