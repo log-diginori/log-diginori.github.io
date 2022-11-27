@@ -56,8 +56,8 @@ export default  {
     },
 
     navbar: [
-      {text: 'tail -f logs', link: '/logs/'},
-      {text: 'cafe', link: '/logs/travel/meplace.md'},
+      {text: 'tail -f loG', link: '/logs/'},
+      {text: 'meplace', link: '/logs/travel/meplace.md'},
       // {
       //   text: 'menu',
       //   children: [

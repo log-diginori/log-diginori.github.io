@@ -1,5 +1,4 @@
 # NHN FORWARD
-
 ::: tip introduction
 - 기술로 더 나은 세상을 만들어 가는 사람들과 함께하는 기술 콘퍼런스 NHN FORWARD 22* 참관기 입니다.
 
@@ -45,7 +44,7 @@ NHN FORWARD 구름 처럼 많은 인파가 모였다.
 그리고 역시 이렇게 많은 사람이 모인 이유가 있었다. 
 사람이 중심에 있는 따뜻한 행사로 다가왔다.
 ```
-![nhnforward-1](../../../../images/nhnforword/nhnforward-1.jpeg)
+![nhnforward-1](../../../../images/nhnforword/social-preview-nhnforward.png)
 
 ### FORWARD
 ```
@@ -141,5 +140,14 @@ Dooray 로 협업하면 행복 할끄니까 ~
 ```
 
 ## END
+```
+$ pip install diginori
+```
+```python
+from diginori import loG
 
-![nhnforward-2](../../../../images/nhnforword/nhnforward-2.jpeg)
+def NHN(FORWORD=22) -> loG:
+    log = loG.create(FORWORD)
+    log.add('/logs/tech/nhn-forward/')
+    return log
+```
