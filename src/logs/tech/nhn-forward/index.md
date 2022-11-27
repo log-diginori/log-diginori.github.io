@@ -1,8 +1,15 @@
 # NHN FORWARD
+``` python
+def NHN(FORWORD=22) -> loG:
+    log = loG.create(FORWORD)
+    log.add('NHN FORWARD')
+    
+    return log
+```
 ::: tip introduction
 - 기술로 더 나은 세상을 만들어 가는 사람들과 함께하는 기술 콘퍼런스 NHN FORWARD 22* 참관기입니다.
 
-- @Justin* 님 발표자 초대 티켓을 나눔 감사드립니다. 티켓 미당첨으로 못가신 분들께 이 글이 조금이나마 도움이 되셨으면 좋겠습니다.
+- 발표자 초대 티켓 나눔 @Justin* 님 감사드립니다. 티켓 미당첨으로 못가신 분들께 이 글이 조금이나마 도움이 되셨으면 좋겠습니다.
 
 - 사람이 즐거워야 기술도 산다 생각하여 데이터야놀자* 를 만들었습니다. 평일 낮시간 발표시간에 맥주도 마시고 캠핑의자에 앉아 이야기 나누는 사람이 남는 기술 + 축제 좋아합니다.
 
@@ -79,11 +86,124 @@ Dooray 로 협업하면 행복 할끄니까 ~
 
 ### banUH
 - 세션 : [NHN Cloud Notification API + Microsoft 파워 플랫폼 = Awesome 로우코드/노코드 마케팅 도구](https://forward.nhn.com/2022/sessions/7)
+- 오픈소스 : [github.com/devrel-kr](https://github.com/devrel-kr/nhn-toast-notification-service-custom-connector/issues) 아직도 열린 PR이 10개가 넘는다. C# 으로된 프로젝트로 오픈 소스 프로젝트의 과정을 한국어로 편하게 즐기고 참가해 보기 좋은 프로젝로 보인다.
 ```
 개발할 땐 "어?" 금지
 세 명 이상 같은 모니터 보는 것 금지
+큰 웃음 몇번과 알찬 구성으로 40분 순삭
+발표 영상과 자료가 공유되면 다시 보기를 권유
+개발은 이제 더이상 개발자만의 것은 아니다
+노 코드가 세상을 바꾼다
+
+오픈소스와 커뮤니티에 초점을 맞춘 MS
+최근 몇년간 행보는 MS 주식을 사고 싶도록 한다
+
+위 링크의 해당 발표 대상 오픈소스에 참여해 보자
+
+다른 세션
+API 우선 접근 방식과 OpenAPI Specification
+과 연결된 프로젝트다 이것도 다시보기 추천!
 ```
+
 ![banUH](../../../../images/nhnforword/a.webp)
+
+### Let's focus on FE development
+- 세션 [밑바닥부터 만들어 보는 UI 프레임워크](https://forward.nhn.com/2022/sessions/37)
+```
+홍수처럼 쏟아져 나오는 JS 프레임워크!
+유행에 휩쓸리지 않고 핵심 개념을 밑바닥부터
+
+vue3 관련 동작 방식을 직접 라이브 코딩으로!
+composition api 원리 이해에 유익
+
+NHN 엔 괴수 개발자가 많다 @.@
+```
+![vuu3](../../../../images/nhnforword/vue.webp)
+
+### OPENTELEMETRY
+- 세션 : [OpenTelemetry를 활용한 모니터링](https://forward.nhn.com/2022/sessions/33)
+- 큰 인사이트를 얻었다. 감사하다.
+- 요즘 댐아닌 데이터 저수지 만들며 Traces 관리에 고민이 깊던 참에 바로 돌아와 팀원분들과 OPENTELEMETRAY 를 공부했다.
+- OPENTELEMETRAY + DATA PIPELINE 주제로 블로그 작성해서 공유예정
+```
+Logs -시간 기반 텍스트
+Metrics - 런타임 환경에서 측정된 값
+Traces - 어떤 요청이 처리될 때 경로
+
+기본 개념에서 시작하여
+깊숙한 인사이트를 나누어 주셨다
+```
+![opentelemetray](../../../../images/nhnforword/opentelemetry.jpeg)
+
+### COFFE TALK
+```
+기술 행사! 이지만 그래도 사람이 더 중하다
+약속하지 않아도 만나고 싶은 사람을 만난다
+호텔 식사는 앞만 보고 먹어야 한다
+김밥이더라도 모여 앉아 먹는게 더 좋겠다
+```
+![talk](../../../../images/nhnforword/talk.webp)
+
+### LOUNGE TALK
+```
+그렇다. 효과적인 소통, 세일즈, 마케팅
+팔려는 물건에만 집중하면 좀 그렇다
+
+NHN 개발자를 챙겨주는 마음이 따뜻하다
+소통과 배려가 충만했다.
+
+신선한 시도와 주제로 건강과 스타일도 챙겼다
+
+라운지라고 하여 트렉 1,2,3 앞에서 하는 줄
+잘 보이지 않는 공간 / 문달린 공가은 아쉬움
+
+내년에도 기대가 된다
+
+여기서 파이콘의 향기가 묻어나는 건 외일까 ^^
+```
+- [3분 안에, 눈썹을 그리는 법](https://forward.nhn.com/2022/lounge-talks/12)
+![soso](https://rledtpaj4.toastcdn.net/2022/images/lounge-talks/speakers/thumb_12_shj.png)
+- [개발자의 직업병, 거북목? 이젠 '굿바이' 하세요!](https://forward.nhn.com/2022/lounge-talks/5)
+![ah](https://rledtpaj4.toastcdn.net/2022/images/lounge-talks/speakers/thumb_5_asw.png)
+- [메이크 오버 2: 다크모드는 이제 그만! 나답게 새로워지는 마법 '퍼스널 컬러'](https://forward.nhn.com/2022/lounge-talks/9)
+![bc](https://rledtpaj4.toastcdn.net/2022/images/lounge-talks/speakers/thumb_9_jsj.png)
+
+### GOODS
+- goods is GOOD!
+```
+차 없이 시골 내려감
+어머니 바리바리 뭘 싸주심
+그 맘을 알기에 들고 업고 집으로 ...
+
+좀 심했다
+그래서 좋았다
+남은 핫팩 하나라도 끝까지 챙겨 주는 맘
+
+페이코를 써야겠다
+두레이를 틈나면 홍보해야겠다
+
+기술발표 세션도 이런 맘에서
+다들 청자를 염두하고 주셨다
+그래서 기술보다 마음이 중요하다
+그래서 기술보다 사람이 중요하다
+
+기술로 더 나은 세상을 만들어 가는 
+사람들과 함께하는 기술 콘퍼런스 OK!
+```
+![goods-1](../../../../images/nhnforword/goods-1.webp)
+![goods-g](../../../../images/nhnforword/dooray-g.webp)
+![goods-g](../../../../images/nhnforword/bus.webp)
+
+### Q&A
+::: details
+- 발표 자료와 영상 ? -> [NHN FORWARD 웹사이트](https://forward.nhn.com/2022) 공개 예정
+
+- 이 블로는 무엇으로 만들어 졌나요? -> [vuepress2](https://v2.vuepress.vuejs.org/) 를 이용했습니다.
+
+- 블로그 작성 이벤트가 있을까요? -> 아래 사항 확인!
+::: details 블로그 이벤트 참가 방법 및 경품
+![blog-evnet](../../../../images/nhnforword/nhnforwad-evnet.png)
+:::
 
 ### REFERENCE
 - [이태원 참사 유가족 기자회견 풀영상](https://www.youtube.com/watch?v=GwZ7-POnVEA)
@@ -98,18 +218,7 @@ Dooray 로 협업하면 행복 할끄니까 ~
 
 - [데이터야놀자](https://2017.datayanolja.kr/) - 데이터를 다루는 모든 사람들의 축제
 
-## Q&A
-::: details
-- 발표 자료와 영상 ? -> [NHN FORWARD 웹사이트](https://forward.nhn.com/2022) 공개 예정
-
-- 이 블로는 무엇으로 만들어 졌나요? -> [vuepress2](https://v2.vuepress.vuejs.org/) 를 이용했습니다.
-
-- 블로그 작성 이벤트가 있을까요? -> 아래 사항 확인!
-::: details 블로그 이벤트 참가 방법 및 경품
-![blog-evnet](../../../../images/nhnforword/nhnforwad-evnet.png)
-:::
-
-## Happy Hacking
+### Happy Hacking
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⡴⠒⠚⣻⠇⠀⠀⠀⠀
@@ -135,16 +244,13 @@ Dooray 로 협업하면 행복 할끄니까 ~
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⡆⢀⣠⠤⠒⠒⠒⠂⠀⠀⠐⠒⠒⠒⠒⠲⢦⡀⠀⠳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣿⡟⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠒⠾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+``` python
+def isHappy(msg: str) -> bool:
+    return msg !='양말' 
+              + '슬리퍼' 
+              + '추리링'
 
-## END
+>>> isHappy('NHN FORWARD 23 에서 만나요 ~')
+True
 ```
-$ pip install diginori
-```
-```python
-from diginori import loG
-
-def NHN(FORWORD=22) -> loG:
-    log = loG.create(FORWORD)
-    log.add('/logs/tech/nhn-forward/')
-    return log
-```
+![sweatsuit](../../../../images/nhnforword/sweatsuit.webp)

@@ -1,4 +1,7 @@
 # RELEASE
+### v1.0.0
+- [x] After the first writing
+
 ### v0.9.1
 - [x] Written on code block off screen on mobile screen
 - [x] If you go to logs on mobile, you can see the blank 
