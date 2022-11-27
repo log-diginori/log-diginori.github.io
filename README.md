@@ -1,6 +1,7 @@
-# grep -E 'oepn|source|mind' log.diginori.log
-- https://log.diginori.com
-- Technical Blog of digiNORI
+# grep -E 'oepn|source|mind' >> loG
+## tail -f loG
+- Technical Blog
+- [loG.diginori.com](https://loG.diginori.com)
 
 # Technical stack
 ## [vuepress v2.0.0-beata53](https://v2.vuepress.vuejs.org)
@@ -34,13 +35,7 @@ yarn run docs:dev
 
 # Distribute and show off
 ```
-git branch page
-```
-```
-git checkout page
-```
-```
-yarn run docs:build
+yarn docs:build
 ```
 > yarn run v1.22.19
 
@@ -57,42 +52,61 @@ yarn run docs:build
 > ✨  Done in 2.49s.
 
 ```
-rm -rf docs/*
+git commit -m "v0.9.1"
 ```
 ```
-mv docs/.vuepress/dist/* docs/
-```
-```
-$ tree docs 
-docs
+$ docs
 ├── 404.html
 ├── assets
-│   ├── 404.html.cde49078.js
-│   ├── 404.html.d2dc3323.js
+│   ├── 404.html.c038a05a.js
+│   ├── 404.html.f5a6296c.js
 │   ├── a.cc6380d7.webp
-│   ├── app.f460780e.js
+│   ├── app.43fdbcbb.js
 │   ├── back-to-top.8efcbe56.svg
-│   ├── crowd.03a3b0df.webp
 │   ├── dooray.b7bc7577.webp
-│   ├── index.html.398d577d.js
-│   ├── index.html.b123705f.js
-│   └── style.e06f2840.css
+│   ├── index.html.06f2e9f2.js
+│   ├── index.html.0f2c75a8.js
+│   ├── index.html.157282b1.js
+│   ├── index.html.1b8ec2f5.js
+│   ├── index.html.25229177.js
+│   ├── index.html.68ced731.js
+│   ├── index.html.7cd7dba2.js
+│   ├── index.html.8e6c9a49.js
+│   ├── index.html.bf188ecc.js
+│   ├── index.html.ee00ceeb.js
+│   ├── meplace.html.2a9eaf96.js
+│   ├── meplace.html.92c7c24d.js
+│   ├── nhnforwad-evnet.3de5e6fc.png
+│   ├── search.0782d0d1.svg
+│   ├── social-preview-nhnforward.daae7950.png
+│   ├── style.00faf208.css
+│   ├── 정숙성.html.63542af1.js
+│   └── 정숙성.html.c1f1c5e6.js
 ├── images
-│   └── nhnforword
-│       ├── a.webp
-│       ├── bus.webp
-│       ├── crowd.webp
-│       ├── dooray-g.webp
-│       ├── dooray.webp
-│       ├── goods-1.webp
-│       ├── sweatsuit.webp
-│       ├── talk.webp
-│       └── vue.webp
-└── index.html
+│   ├── annual-rings-640.png
+│   ├── annual-rings.svg
+│   ├── wood-color.svg
+│   ├── wood-mono.svg
+│   └── wood_640.png
+├── index.html
+└── logs
+    ├── index.html
+    ├── tech
+    │   ├── google-cloud-innovators-hive
+    │   │   └── index.html
+    │   ├── naver-cloud-summit
+    │   │   └── index.html
+    │   └── nhn-forward
+    │       └── index.html
+    └── travel
+        ├── meplace.html
+        └── 정숙성.html
 ```
 ```
-git push --set-upstream origin page
+git push
 ```
 - last distribute step : github page setting
 
+
+- Visit in a few minutes -> https://log.diginori.com
 # Happy hacking
