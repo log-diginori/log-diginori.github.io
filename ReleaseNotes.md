@@ -1,4 +1,7 @@
 # RELEASE
+### v1.1.0
+- [x] Apply Google Analytics
+
 ### v1.0.0
 - [x] After the first writing
 
@@ -18,7 +21,7 @@
 - [x] Creation date does not appear
 - [x] I wish there was a lower bar. For the author's replacement
 - [ ] Optimize searches and apply web standards
-- [ ] Apply Google Analytics
+- [x] Apply Google Analytics
 - [x] Apply https
 - [ ] Image Source and Use Add Open Source Public Page
 - [ ] edite -> page not found

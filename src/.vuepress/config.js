@@ -15,7 +15,7 @@ export default  {
     }),
     backToTopPlugin(),
     googleAnalyticsPlugin({
-      id: 'G-XXXXXXXXXX',
+      id: 'G-B5QYS2JYSW',
       debug: true,
     }),
   ],
