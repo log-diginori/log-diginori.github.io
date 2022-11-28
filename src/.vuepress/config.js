@@ -26,8 +26,8 @@ export default  {
     logo: '/images/wood-mono.svg',
     logoDark: '/images/wood-color.svg',
 
-    repo: 'https://github.com/log-diginori/log-diginori.github.io',
-    repoLabel: 'code',
+    repo: 'https://github.com/log-diginori/log-diginori.github.io/discussions',
+    repoLabel: 'discussions',
     
     contributors: false,
 
@@ -76,6 +76,9 @@ export default  {
             '/logs/tech/nhn-forward/',
             '/logs/tech/naver-cloud-summit/',
             '/logs/tech/google-cloud-innovators-hive/',
+
+            '/logs/tech/1784/',
+            '/logs/tech/sre/',
           ],
         },
         {
