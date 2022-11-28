@@ -26,8 +26,8 @@ export default  {
     logo: '/images/wood-mono.svg',
     logoDark: '/images/wood-color.svg',
 
-    repo: 'https://github.com/log-diginori/log-diginori.github.io',
-    repoLabel: 'code',
+    repo: 'https://github.com/log-diginori/log-diginori.github.io/discussions',
+    repoLabel: 'discussions',
     
     contributors: false,
 

@@ -2,6 +2,9 @@
 ### v1.1.0
 - [x] Apply Google Analytics
 
+### v1.1.0
+- [x] Apply Google Analytics
+
 ### v1.0.0
 - [x] After the first writing
 
@@ -12,6 +15,9 @@
 - [x] Creation date does not appear
 - [x] Guidelines for changed deployment methods not yet applied to readme.md
 - [x] I wish there was a lower bar. For the author's replacement
+
+# NEW FEATURES
+- [ ] use discussions - https://github.com/log-diginori/log-diginori.github.io/discussions
 
 # BUG
 ### v0.9.0
