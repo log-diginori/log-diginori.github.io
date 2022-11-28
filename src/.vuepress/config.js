@@ -76,6 +76,9 @@ export default  {
             '/logs/tech/nhn-forward/',
             '/logs/tech/naver-cloud-summit/',
             '/logs/tech/google-cloud-innovators-hive/',
+
+            '/logs/tech/1784/',
+            '/logs/tech/sre/',
           ],
         },
         {

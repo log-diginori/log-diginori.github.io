@@ -1,4 +1,9 @@
 # RELEASE
+### v1.3.0
+- [x] use discussions - https://github.com/log-diginori/log-diginori.github.io/discussions
+
+### v1.2.0
+
 ### v1.1.0
 - [x] Apply Google Analytics
 
@@ -17,7 +22,7 @@
 - [x] I wish there was a lower bar. For the author's replacement
 
 # NEW FEATURES
-- [ ] use discussions - https://github.com/log-diginori/log-diginori.github.io/discussions
+- [x] use discussions - https://github.com/log-diginori/log-diginori.github.io/discussions
 
 # BUG
 ### v0.9.0
