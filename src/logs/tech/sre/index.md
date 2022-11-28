@@ -6,3 +6,24 @@
 :::
 -  [If I have seen a little further it is by standing in the shoulders of Giants. - issack newton -](https://dayofblog.pe.kr/758)
 ![observability vs monitoring](../../../../images/tech/observabilityVSmonitoring.jpeg)
+
+### class SRE implements DevOps
+- [클라우드 시대에 맞는 사이트 신뢰성 엔지니어, Outsider/당근마켓 SRE](https://docs.google.com/presentation/d/1-kA1N_7kCwJTwBizE3KJ6AhHghGqI8WZfMkBr0WuqWo/edit#slide=id.g13fe81ef2f1_18_42)
+::: tip “사이트 신뢰성 엔지니어링" 책 중
+끊임없이 엔지니어링을 추구하지 않으면
+
+업무 부담이 증가하여 그 부담을 나누기 위해
+더 많은 인력이 필요하게 되고
+
+결국에는 서비스의 크기에 따라
+전통적인 운영 업무를 담당하는 인력이 기하급수적으로 늘어나게 된다.
+:::
+```
+아웃사이더님 발표 장표중 가장 인상 깊음
+
+업무 부담이 증가 - 내가 지금 격고 있던 문제
+여기서 인력충원까지 없으면?
+그러니까 지금 나의 문제!
+
+답은 "끊임없이 엔지니어링을 추구"
+```
