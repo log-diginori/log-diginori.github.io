@@ -9,7 +9,7 @@ contributors: false
 
 - [NHN FORWARD 22](tech/nhn-forward/index.md) 참관기 - 2022.11.24 그랜드 인터컨티넨탈 서울 파르나스
 
-- [NAVER CLOUD SUMMIT 2022](tech/naver-cloud-summit/index.md) 참관기 - 2022.11.24 그랜드 인터컨티넨탈 서울 파르나스
+- [NAVER CLOUD SUMMIT 2022](tech/naver-cloud-summit/index.md) 2022. 12. 14 Wed, Online - 네이버 예약
 
 ```
 .​⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
