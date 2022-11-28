@@ -103,6 +103,13 @@ $ docs
         └── 정숙성.html
 ```
 ```
+cp CNAME docs/
+```
+- build + cp => sh build.sh
+```
+git commit -m "vX.Y.X"
+```
+```
 git push
 ```
 - last distribute step : github page setting
