@@ -31,8 +31,8 @@ export default  {
     
     contributors: false,
 
-    editLink: true,
-    editLinkText: '✏️',
+    editLink: false,
+    // editLinkText: '✏️',
     
     lastUpdated: true,
     lastUpdatedText: 'Last Updated',
@@ -58,12 +58,6 @@ export default  {
     navbar: [
       {text: 'tail -f loG', link: '/logs/'},
       {text: 'meplace', link: '/logs/travel/meplace.md'},
-      // {
-      //   text: 'menu',
-      //   children: [
-      //     {text: 'digiNORI', link: 'https://digiNORI.com'},
-      //   ],
-      // },
     ],
 
     // collapsible sidebar
@@ -79,6 +73,7 @@ export default  {
 
             '/logs/tech/1784/',
             '/logs/tech/sre/',
+            '/logs/tech/seo/',
           ],
         },
         {

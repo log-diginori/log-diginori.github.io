@@ -1,4 +1,7 @@
 # RELEASE
+### v1.3.1
+- [x] disable editLink
+
 ### v1.3.0
 - [x] use discussions - https://github.com/log-diginori/log-diginori.github.io/discussions
 

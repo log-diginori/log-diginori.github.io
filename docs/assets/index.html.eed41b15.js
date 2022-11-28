@@ -1,4 +1,4 @@
-import{_ as d,r as a,o as t,c,a as e,b as l,w as s,d as n,e as r}from"./app.bc83f926.js";const v={},u=e("h1",{id:"tail-n-3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#tail-n-3","aria-hidden":"true"},"#"),n(" $ tail -n 3")],-1),o=r(`<div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>.​⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
+import{_ as d,r as a,o as t,c,a as e,b as l,w as s,d as n,e as r}from"./app.c057ae5d.js";const v={},u=e("h1",{id:"tail-n-3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#tail-n-3","aria-hidden":"true"},"#"),n(" $ tail -n 3")],-1),o=r(`<div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>.​⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⡄⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣸⣿⡏⠀⠀⠀⣠⣶⣾⣿⣿⣿⠿⠿⠿⢿⣿⣿⣿⣄⠀⠀⠀
