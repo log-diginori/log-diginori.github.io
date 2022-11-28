@@ -194,6 +194,14 @@ NHN 개발자를 챙겨주는 마음이 따뜻하다
 ![goods-g](../../../../images/nhnforword/dooray-g.webp)
 ![goods-g](../../../../images/nhnforword/bus.webp)
 
+# 굿즈론
+- 그것이 알고 싶다
+- 행사 담당자의 큰 가방까지 준비해서 만원 버스를 타고 몇번을 쉬어가며 집에 오도록 의도했는지?
+- 굿지와 개발자행사의 연관관계는 무엇인지?
+- 마음과 마음은 어떻게 통하는지?
+- [theory of goods](./theory-of-goods.md) 에서 다루어 보자!
+![g-a-all](../../../../images/nhnforword/nhn-g-ani-all.gif)
+
 ### Q&A
 ::: details
 - 발표 자료와 영상 ? -> [NHN FORWARD 웹사이트](https://forward.nhn.com/2022) 공개 예정
