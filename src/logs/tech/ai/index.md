@@ -146,9 +146,40 @@ model.add(Dense(1, activation='sigmoid'))
 #### 모델요약
 <img width="731" alt="image" src="https://user-images.githubusercontent.com/10396850/204995101-9f16aaf2-25ba-4a8c-851f-60661b8294c5.png">
 
+#### 텐서플로우와 케라스
+- 파이토치를 선호하는 분들도 있지만 텐서플로우가 케라스 API 도입하면서 좋아짐
+- 프로덕트는 tf
+- 연구는 파이토치
+
+#### 학습
+- 학습이 계속(에포크를 늘리면) 되면 loss 는 줄고 accuracy 는 는다. 
+![image](https://user-images.githubusercontent.com/10396850/205002980-67a944c2-7759-45ac-b669-48a319aa8678.png)
+- https://asia02.app.backend.ai:10477/notebooks/02-malaria-cnn-basic-input.ipynb / backend.ai 이용 / 개인 로그인 필요
+<img width="826" alt="image" src="https://user-images.githubusercontent.com/10396850/205003522-1f188f99-4ce8-45c7-8fee-a26eaa6310aa.png">
+
+#### 마지막 실습 : 75p - 이미지 인식 경진대회 우승 알고리즘을 이용
+- 2번째 실습과 모델 부분만 바꾸어 쓴다 vcc /  - 전이학습(Transfer Learning) - 파라미터값만 조정해서 쓸수 있도록 만들어 두엇다.
+- https://drive.google.com/file/d/14qymHoNxc3kYJRxaISIFm1OmSRdhO4KB/view?usp=share_link
+- AlexNet 26% 오류를 16% 까지 감소
+- AlexNet 이후 층을 깊게 쌓는 모델이 등장했다.
+- 딥러닝은 비정형에서 좋은 성능을 정형은 부스팅계열을 사용
+- 정형 -> 사람이 처리하여 넣어줌
+- 비정형 -> 알아서!
+- [03-malaria-vgg-resnet-output.ipynb](03-malaria-vgg-resnet-output.ipynb)
+- [02-malaria-cnn-basic-output.ipynb](02-malaria-cnn-basic-output.ipynb)
+- 
 
 
+#### Backend.AI
+- https://cloud.backend.ai
+<img width="1561" alt="image" src="https://user-images.githubusercontent.com/10396850/205005801-82f9d0c8-3516-4e50-b839-6439e1ed9d7d.png">
+<img width="1561" alt="image" src="https://user-images.githubusercontent.com/10396850/205005993-4b72f559-ee5a-44e0-8222-6b96923f15bf.png">
+<img width="984" alt="image" src="https://user-images.githubusercontent.com/10396850/205005269-04bbdcfd-8e0a-4901-822d-68e893cb7206.png">
 
 
 #### blank answer sheet
 _____________*1 : ImageDataGenerator
+
+
+#### 오늘의코드
+- [todaycode](https://www.youtube.com/todaycode) 님 여러운거 쉽게 설명해 주셔서 감사합니다. 역시 어렵지만 못피하니 즐겨야죠. 하하하
