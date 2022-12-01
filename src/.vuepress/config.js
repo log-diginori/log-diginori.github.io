@@ -74,6 +74,8 @@ export default  {
             '/logs/tech/1784/',
             '/logs/tech/sre/',
             '/logs/tech/seo/',
+            
+            '/logs/tech/ai/',
           ],
         },
         {
