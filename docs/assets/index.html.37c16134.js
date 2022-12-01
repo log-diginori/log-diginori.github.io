@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72364fd6","path":"/logs/tech/ai/","title":"AI & DEEP LEARNING","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"Backend.AI","slug":"backend-ai","link":"#backend-ai","children":[]}],"git":{"updatedTime":1669884604000},"filePathRelative":"logs/tech/ai/index.md"}');export{e as data};
