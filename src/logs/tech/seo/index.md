@@ -16,3 +16,7 @@ googleAnalyticsPlugin({
     debug: true,
 }),
 ```
+
+### NAVER Search Advisor
+![image](https://user-images.githubusercontent.com/10396850/205189346-6d3d4d11-33b1-43fe-a592-a15c49e9d222.png)
+![image](https://user-images.githubusercontent.com/10396850/205189694-f97c2420-eac1-409f-9c14-fc8fae16af3f.png)
