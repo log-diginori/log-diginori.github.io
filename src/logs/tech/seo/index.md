@@ -28,3 +28,13 @@ googleAnalyticsPlugin({
 :::
 ![image](https://user-images.githubusercontent.com/10396850/205334401-a326d33e-7edd-4f96-bb61-d388f9c04b27.png)
 ![image](https://user-images.githubusercontent.com/10396850/205204091-a0b0e05f-9f1d-4207-a9b5-607c97fe35a3.png)
+
+### Applied google search console
+- https://search.google.com -> PageSpeed Insights -> https://pagespeed.web.dev
+![image](https://user-images.githubusercontent.com/10396850/205337918-7e00fd5e-177f-4bb2-a3bf-fc1231c9b0ef.png)
+![image](https://user-images.githubusercontent.com/10396850/205338052-8331a55b-95c5-4015-a4f4-eb90b6762a64.png)
+
+#### search console insights
+- https://search.google.com/search-console/insights/u/0?utm_source=search_console&utm_medium=search_console&utm_campaign=association_report_sc&resource_id=https://log.diginori.com/&hl=ko&ga4_property_id=343916405&ga4_stream_id=4314547171 ( If you want to get permission ? To the discursions menu! )
+![image](https://user-images.githubusercontent.com/10396850/205338956-702ef12c-097b-4500-a49a-149befa48ca7.png)
+
