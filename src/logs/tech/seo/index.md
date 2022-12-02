@@ -23,7 +23,7 @@ googleAnalyticsPlugin({
 ### Applied naver search Advisor
 ![image](https://user-images.githubusercontent.com/10396850/205189346-6d3d4d11-33b1-43fe-a592-a15c49e9d222.png)
 ![image](https://user-images.githubusercontent.com/10396850/205189694-f97c2420-eac1-409f-9c14-fc8fae16af3f.png)
-::: tip ccording to
+::: tip according to
     - https://v2.vuepress.vuejs.org/reference/config.html#head
 :::
 ![image](https://user-images.githubusercontent.com/10396850/205334401-a326d33e-7edd-4f96-bb61-d388f9c04b27.png)
