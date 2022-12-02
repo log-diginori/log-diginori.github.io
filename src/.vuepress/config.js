@@ -11,7 +11,7 @@ export default {
   description: "make a better world. so make a better loG.digiNORI",
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'diginori | loG' }],
+    ['meta', { property: 'og:title', content: 'diginori loG' }],
     ['meta', { property: 'og:description', content: 'so make a better loG.digiNORI' }],
     ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/10396850/205328536-741b634a-c7e4-4721-b0be-79a4a396b2bc.png' }],
     ['meta', { property: 'og:url', content: 'https://log.diginori.com' }],
