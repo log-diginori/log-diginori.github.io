@@ -1,10 +1,13 @@
 # SEO
 
 ### apply google analytics
-- You can follow the guide on the site [https://papago.naver.com/](https://analytics.google.com/)
+- You can follow the guide on the site [https://analytics.google.com/](https://analytics.google.com/)
 - You can see the following screen in an hour or two
-![a](../../../../images/analytics.google.com/analytics.google.com-1.png)
-![a](../../../../images/analytics.google.com/analytics.google.com-2.png)
+- Path Navigation Analysis
+![google analytics main](../../../../images/analytics.google.com/analytics.google.com-1.png)
+![google analytics report](../../../../images/analytics.google.com/analytics.google.com-2.png)
+![google analytics path navigation](https://user-images.githubusercontent.com/10396850/205191457-9f1c58ff-fa0c-4975-9f3d-f1bfbd609dfc.png)
+
 
 # apply google analytics in vuepress
 - https://v2.vuepress.vuejs.org/reference/plugin/google-analytics.html
