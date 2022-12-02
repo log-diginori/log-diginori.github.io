@@ -1,6 +1,6 @@
 {
   "name": "log-diginori.github.io",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "grep -E 'open|source|mind' >> loG",
   "main": "index.js",
   "author": "Tom Sawyer",
