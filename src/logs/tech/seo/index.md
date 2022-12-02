@@ -38,3 +38,8 @@ googleAnalyticsPlugin({
 - https://search.google.com/search-console/insights/u/0?utm_source=search_console&utm_medium=search_console&utm_campaign=association_report_sc&resource_id=https://log.diginori.com/&hl=ko&ga4_property_id=343916405&ga4_stream_id=4314547171 ( If you want to get permission ? To the discursions menu! )
 ![image](https://user-images.githubusercontent.com/10396850/205338956-702ef12c-097b-4500-a49a-149befa48ca7.png)
 
+### Reflect search ranking
+- https://www.google.com/search?q=diginori+log&oq=diginori+log&aqs=chrome..69i57j69i65l2j69i60.2268j0j7&sourceid=chrome&ie=UTF-8
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/10396850/205347095-a71b6c12-c2f6-464d-9ae2-52d0bcd895f5.png">
+
+
