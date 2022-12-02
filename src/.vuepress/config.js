@@ -17,6 +17,21 @@ export default {
     ['meta', { property: 'og:url', content: 'https://log.diginori.com' }],
   ],
 
+  locales: {
+    // The key is the path for the locale to be nested under.
+    // As a special case, the default locale can use '/' as its path.
+    '/en/': {
+      lang: 'en-US',
+      // title: 'loG',
+      // description: 'make a better world. so make a better loG.digiNORI',
+    },
+    '/': {
+      lang: 'ko-KR',
+      // title: '디지노리 로그',
+      // description: '더 나은 세상을 만들자. 이를 위해 더 나은 로그를 남겨가자. 디지노리.',
+    },
+  },
+
   plugins: [
     searchPlugin({
       // options
@@ -29,6 +44,44 @@ export default {
   ],
 
   theme: defaultTheme({
+    locales: {
+      '/': {
+        selectLanguageName: 'Korean',
+      },
+      '/en/': {
+        selectLanguageName: 'English',
+        sidebar: {
+          "/en/logs/": [
+            {
+              text: "Technology",
+              collapsible: true,
+              children: [
+                "/en/logs/tech/nhn-forward/",
+                "/en/logs/tech/naver-cloud-summit/",
+                "/en/logs/tech/google-cloud-innovators-hive/",
+    
+                "/en/logs/tech/1784/",
+                "/en/logs/tech/sre/",
+                "/en/logs/tech/seo/",
+    
+                "/en/logs/tech/ai/",
+              ],
+            },
+            {
+              text: "Travel",
+              collapsible: true,
+              children: [
+                "/en/logs/travel/meplace.md",
+                "/en/logs/travel/정숙성.md",
+    
+                "/en/logs/travel/diet/",
+              ],
+            },
+          ],
+        },
+      },
+    },
+
     home: "/index.md",
 
     logo: "/images/wood-mono.svg",
@@ -47,21 +100,6 @@ export default {
 
     colorMode: "auto",
     colorModeSwitch: true,
-
-    locales: {
-      "/": {
-        lang: "ko-KR",
-        title: "로그",
-        description: "디지노리 로그",
-        selectLanguageName: "국어",
-      },
-      "/en/": {
-        lang: "en-US",
-        title: "LOG",
-        description: "digiNORI LOG",
-        selectLanguageName: "English",
-      },
-    },
 
     navbar: [
       { text: "tail -f loG", link: "/logs/" },
