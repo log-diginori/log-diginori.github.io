@@ -1,6 +1,13 @@
 # RELEASE
+
+### v1.6.0
+- [x] The multilingual support option has not been set. [i18n](https://v2.vuepress.vuejs.org/guide/i18n.html)
+- [ ] bug - Duplicate Image Folder
+
 ### v1.5.0
 - [x] bug - https://github.com/log-diginori/log-diginori.github.io/issues/13
+- [x] Applied google search console
+
 ### v1.4.0
 - [ ] Applied google search console
 - [x] Applied naver search Advisor
