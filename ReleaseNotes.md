@@ -1,5 +1,9 @@
 # RELEASE
 
+### v1.4.0
+- [ ] Applied google search console
+- [x] Applied naver search Advisor
+
 ### v1.3.4
 
 - /logs/tech/ai/#backend-ai
