@@ -19,9 +19,9 @@ actions:
     type: primary
 
 
-# features:
-# - title: Simplicity First
-#   details: Minimal setup with markdown-centered project structure helps you focus on writing.
+features:
+- title: diginori loG
+  details: make a better world. so make a better loG.digiNORI / You may say I'm a dreamer. Sharing all the world. / Happy Hacking. #diginori #loG #digiNORI.com
 
 
 footer: The Adventures of Tom and Becky ©digiNORI

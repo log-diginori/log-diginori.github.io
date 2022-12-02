@@ -1,5 +1,6 @@
 # RELEASE
-
+### v1.5.0
+- [x] bug - https://github.com/log-diginori/log-diginori.github.io/issues/13
 ### v1.4.0
 - [ ] Applied google search console
 - [x] Applied naver search Advisor
