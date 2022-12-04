@@ -39,6 +39,7 @@ print('움직이는 드론!')
 :::
 - [DJI EDU TELLO](https://things-voyager.tistory.com/68) - DJI 텔로 에듀 드론 / [16.2만원](https://brand.naver.com/dji/products/5747594906), 파이썬, 스크래치, 스위프트 지원 )
 ![image](https://user-images.githubusercontent.com/10396850/205471139-b0dc440a-4f0e-4ebe-a7a8-19fb27f2ede7.png)
+- youtube -> [코딩드론 Tello 와 Tello Edu 구입 선택](https://www.youtube.com/watch?v=ixUJTXL_ktg)
 
 
 ### Start! Let's do it together!
