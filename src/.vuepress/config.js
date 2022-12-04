@@ -77,6 +77,13 @@ export default {
                 "/en/logs/travel/diet/",
               ],
             },
+            {
+              text: "Korean culture",
+              collapsible: true,
+              children: [
+                "/logs/korean-culture/",
+              ],
+            },
           ],
         },
       },
@@ -134,6 +141,13 @@ export default {
             "/logs/travel/정숙성.md",
 
             "/logs/travel/diet/",
+          ],
+        },
+        {
+          text: "Korean culture",
+          collapsible: true,
+          children: [
+            "/logs/korean-culture/",
           ],
         },
       ],
