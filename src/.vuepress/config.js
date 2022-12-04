@@ -122,6 +122,8 @@ export default {
             "/logs/tech/seo/",
 
             "/logs/tech/ai/",
+            
+            "/logs/tech/drone/",
           ],
         },
         {
