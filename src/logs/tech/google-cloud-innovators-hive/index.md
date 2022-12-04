@@ -24,6 +24,13 @@
 - 개발자 굿즈의 또다른 유니버스 '바지'편이 궁금하면 -> [NHN Cloud Goods](http://localhost:8080/logs/tech/nhn-forward/#goods)
 ![google steak](../../../../images/googlecloud/goods.webp)
 
+### Green Google / lowest CO2
+- Google's explanation of eco-friendly features is impressive in the Keynote presentation
+- Helping you pick the greenest region for your Google Cloud resourcesHelping you pick the greenest region for your Google Cloud resources
+::: tip lowest CO2
+오늘부터 Cloud Console 위치 선택기 내에서 탄소 영향이 가장 낮은 지역을 표시합니다. 현재 Cloud Run 및 Datastream 에서 사용할 수 있으며 시간이 지남에 따라 더 많은 Google Cloud 제품에 출시될 것입니다.
+:::
+- [lowest CO2](https://cloud.google.com/blog/topics/sustainability/pick-the-google-cloud-region-with-the-lowest-co2?hl=en)
 
 ### 도전 Kaggle
 - 월드컵 기간에 맞춰 랭킹 12번째 등록
