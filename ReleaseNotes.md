@@ -1,4 +1,8 @@
 # RELEASE
+### v1.6.1
+- [ ] resume
+- [ ] about digiNORI
+- [ ] abpit datayanolja
 
 ### v1.6.0
 - [x] The multilingual support option has not been set. [i18n](https://v2.vuepress.vuejs.org/guide/i18n.html)

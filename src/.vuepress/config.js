@@ -75,6 +75,8 @@ export default {
                 "/en/logs/travel/정숙성.md",
     
                 "/en/logs/travel/diet/",
+
+                "/en/logs/travel/naverunion.md",
               ],
             },
             {
@@ -82,6 +84,13 @@ export default {
               collapsible: true,
               children: [
                 "/logs/korean-culture/",
+              ],
+            },
+            {
+              text: "about",
+              collapsible: true,
+              children: [
+                "/logs/about/me/resume.md",
               ],
             },
           ],
@@ -141,6 +150,8 @@ export default {
             "/logs/travel/정숙성.md",
 
             "/logs/travel/diet/",
+
+            "/logs/travel/naverunion.md"
           ],
         },
         {
@@ -148,6 +159,13 @@ export default {
           collapsible: true,
           children: [
             "/logs/korean-culture/",
+          ],
+        },
+        {
+          text: "about",
+          collapsible: true,
+          children: [
+            "/logs/about/me/resume.md",
           ],
         },
       ],
