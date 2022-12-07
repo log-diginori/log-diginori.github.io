@@ -83,14 +83,14 @@ export default {
               text: "Korean culture",
               collapsible: true,
               children: [
-                "/logs/korean-culture/",
+                "/en/logs/korean-culture/",
               ],
             },
             {
               text: "about",
               collapsible: true,
               children: [
-                "/logs/about/me/resume.md",
+                "/en/logs/about/me/resume.md",
               ],
             },
           ],
