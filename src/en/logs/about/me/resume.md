@@ -16,15 +16,16 @@ yearning for folklore
 Data as a profession
 He is a developer who wants to play
 ```
-- [Fiacon 2016 Developer T-shirt Deokhu - One Sunday morning](https://www.slideshare.net/diginorimin/2016-64973868)
+- [Pycon 2016 Developer T-shirt Nerd - One Sunday morning](https://www.slideshare.net/diginorimin/2016-64973868)
 
 ### What am I proud of?
 - Development of NAVER Enterprise Data Collection Pipeline and Automatic Placement Generation Module Using Reservoir Meta
+- [Founding member of NAVER's labor union](https://www.hankookilbo.com/News/Read/201804110457391978)
 - LINE game log collection analysis and user navigation system deployment
 - [Data, let's play Super Fun launch](https://byline.network/2017/10/11-5/)
 - Establishment of a family targeting system through SKTV viewing log analysis / AWS+EMR (apache spark + zeppelin)
 - Cashslide advertising retargeting system performance 100x cost 1/10 AWS deployment
-- [apache zeppelin evangelist](https://www.slideshare.net/diginorimin/ss-60780570), 커뮤니티, 삼성 카카오 sk ... 강연
+- [apache zeppelin evangelist](https://www.slideshare.net/diginorimin/ss-60780570)
 - [Ruby-on-rails performance testing and profiling](https://www.slideshare.net/diginorimin/ss-42434557)
 - Lessons learned from the failure of the first agile megaproject and who left it behind
 - Samsung Electronics' Galaxy Chat-on Performance Test Bed Construction and Troubleshooting
