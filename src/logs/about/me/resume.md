@@ -7,6 +7,11 @@
 ![phy](../../../../images/about/me/phy.jpeg)
 :::
 
+# Coffee chat
+- [Apply for Coffee Chat](https://cal.com/diginori/coffeechat)
+- I believe that sometimes lightness can be heavier than heavy.
+- Wherever you are.
+
 ### Who am I?
 ```
 물리학을 사랑했고
