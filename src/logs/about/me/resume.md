@@ -24,6 +24,7 @@
 
 ### What am I proud of?
 - 네이버 전사 데이터 수집 파이프라인 생성 및 저수지 메타 활용 자동 배치 생성 모듈 개발
+- [Founding member of NAVER's labor union](https://www.hankookilbo.com/News/Read/201804110457391978)
 - 라인 게임 로그 수집 분석 및 어뷰징 사용자 탐색 시스템 구축
 - [데이터야놀자 슈퍼 펀 런칭](https://byline.network/2017/10/11-5/)
 - sk btv 시청로그 분석을 통한 가족타겟팅 시스템 구축 / AWS+EMR(apache spark + zeppelin)
