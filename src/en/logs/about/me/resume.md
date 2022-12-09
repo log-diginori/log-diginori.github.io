@@ -7,8 +7,6 @@
 ![phy](../../../../images/about/me/phy.jpeg)
 :::
 
-:::
-
 ### Who am I?
 ``` digiNORI
 I loved physics
@@ -53,7 +51,8 @@ He is a developer who wants to play
 :::
 
 ### Culture
-::: No one is good at everything.
+
+::: details No one is good at everything.
 No one is good at everything.
 
 So we need a team.

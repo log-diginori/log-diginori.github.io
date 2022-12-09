@@ -7,8 +7,6 @@
 ![phy](../../../../images/about/me/phy.jpeg)
 :::
 
-:::
-
 ### Who am I?
 ```
 물리학을 사랑했고
