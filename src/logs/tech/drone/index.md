@@ -58,12 +58,12 @@ Please register as a browser favorite.
 ```
 
 ### 배송 도착 및 박스 오픈 & 크기비교
-- 배송은 영업일 기준 2일 소요
-- 드론의 크기 가늠 위해 마우스 시계 샤오미 램프 ... 배치
+``` bash
+# 배송 영업일 기준 2일 소요
+# 드론의 크기 가늠 위해 마우스 시계 키보드 배치
+```
 ![open dron box](../../../../images/drone/dron-open-6-422.jpg)
 
 ### 파이썬으로 프로그램의 시작
-- [DJI 에서 GITHUB 에 공개한 SDK](https://github.com/dji-sdk/Tello-Python)가 있음
-- SDK 공개 시점이 4년 전이라 파이썬2 사용은 아쉬움
-- 파이썬을 배우며 해볼꺼라면 파이썬 환경에서 시작 (2.x 는 더이상 공식 지원되지 않음) 추천
-- [drone-lions/tello-sdk-python](https://github.com/drone-lions/tello-sdk-python3)에서 파이썬3 로 바꾸며 진행
+- [GITHUB]()에 [DJI 에서 공개한 SDK](https://github.com/dji-sdk/Tello-Python)가 있음
+- 위 코드를 포크 [drone-lions/tello-sdk-python](https://github.com/drone-lions/tello-sdk-python3)에서 파이썬3 로 바꾸며 진행
