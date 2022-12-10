@@ -20,6 +20,9 @@ Data as a profession
 He is a developer who wants to play
 ```
 - [Pycon 2016 Developer T-shirt Nerd - One Sunday morning](https://www.slideshare.net/diginorimin/2016-64973868)
+::: details NERD LIFE
+![image](https://user-images.githubusercontent.com/10396850/206878974-8097c549-8d55-441d-9564-7b5e6092bd62.png)
+:::
 
 ### What am I proud of?
 - Development of NAVER Enterprise Data Collection Pipeline and Automatic Placement Generation Module Using Reservoir Meta
@@ -41,7 +44,7 @@ He is a developer who wants to play
 
 
 ### Skills
-::: details
+::: details Source Software Development Skills
 - python
 - linux & bash
 - hadoop echo system - zeppelin, spark, hive, airflow
