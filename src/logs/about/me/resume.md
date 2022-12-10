@@ -20,6 +20,9 @@
 놀자하는 개발자다
 ```
 - [파이콘2016 개발자티셔츠덕후의-어느일요일아침](https://www.slideshare.net/diginorimin/2016-64973868)
+::: details NERD LIFE
+![image](https://user-images.githubusercontent.com/10396850/206878974-8097c549-8d55-441d-9564-7b5e6092bd62.png)
+:::
 
 <!-- 
 ![phy](../../../../images/about/me/line-bujang-2.jpeg)
@@ -45,7 +48,7 @@
 
 
 ### Skills
-::: details
+::: details Source Software Development Skills
 - 파이썬
 - linux & bash
 - 하둡에코시스템 - zeppelin, spark, hive, airflow
