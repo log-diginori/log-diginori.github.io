@@ -65,5 +65,9 @@ Please register as a browser favorite.
 ![open dron box](../../../../images/drone/dron-open-6-422.jpg)
 
 ### 파이썬으로 프로그램의 시작
-- [GITHUB]()에 [DJI 에서 공개한 SDK](https://github.com/dji-sdk/Tello-Python)가 있음
+- [GITHUB](https://docs.github.com/ko/get-started)에 [DJI 에서 공개한 SDK](https://github.com/dji-sdk/Tello-Python)가 있음
 - 위 코드를 포크 [drone-lions/tello-sdk-python](https://github.com/drone-lions/tello-sdk-python3)에서 파이썬3 로 바꾸며 진행
+
+### Drone Outdoor Ambitious Flight Training in the Park
+- Follow the attached paper guide to familiarize yourself with drone coordination before programming. / So we tried flying drones in the park, cutting through the night air.
+![Drone Outdoor Ambitious Flight Training](../../../../images/drone/Drone-Outdoor-Ambitious-Flight-Training.jpeg)

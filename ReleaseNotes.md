@@ -1,6 +1,7 @@
 # RELEASE
 ### v1.6.2
 - [ ] agile-fighter
+- [x] drone post fix
 
 ### v1.6.1
 - [x] resume
