@@ -1,6 +1,9 @@
 # RELEASE
+### v1.6.2
+- [ ] agile-fighter
+
 ### v1.6.1
-- [ ] resume
+- [x] resume
 - [ ] about digiNORI
 - [ ] abpit datayanolja
 
