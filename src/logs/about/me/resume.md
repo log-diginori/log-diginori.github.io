@@ -35,11 +35,13 @@
 - [데이터야놀자 슈퍼 펀 런칭](https://byline.network/2017/10/11-5/)
 - sk btv 시청로그 분석을 통한 가족타겟팅 시스템 구축 / AWS+EMR(apache spark + zeppelin)
 - 캐시슬라이드 광고 리타겟팅 시스템 성능 100배 비용 1/10 AWS spot instans 기반 구축
-- [apache zeppelin evangelist](https://www.slideshare.net/diginorimin/ss-60780570), 커뮤니티, 삼성 카카오 sk ... 강연
+- [apache zeppelin evangelist](https://www.slideshare.net/diginorimin/ss-60780570), 커뮤니티 런칭, 삼성/카카오/SK 강연
 - [루비 온 레일즈 성능테스트 및 프로파일링](https://www.slideshare.net/diginorimin/ss-42434557)
-- 첫 애자일 대형 프로젝트의 실패에서 배운 교훈과 남긴 사람들
+- 첫 애자일 대형 프로젝트의 실패에서 배운 교훈과 남긴 사람들(월드베스트소프트웨어/presidency of MB)
 - 삼성전자 갤럭시 챗온 성능테스트 베드 구축 및 트러블슈팅
+- Establishment of Korea's first one-person creative company / [한샘뭇씀 주식회사](https://www.edaily.co.kr/news/read?newsId=02286166593162440&mediaCodeNo=257) / 대통령직속 미래기획위원장표창을 수상 November 2010
 - [디지노리의 꿈](https://www.hani.co.kr/arti/economy/working/459626.html) - [diginori.com](https://diginori.com)
+- Development of "LOW-TEMPERATURE COMBUSTION ROCKET" and successful pilot launch, September 2000, Gu Professor of Defense Science Research Institute guided
 
 ### Education
 - 물리학전공

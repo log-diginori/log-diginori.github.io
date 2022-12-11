@@ -36,6 +36,7 @@ He is a developer who wants to play
 - Lessons learned from the failure of the first agile megaproject and who left it behind
 - Samsung Electronics' Galaxy Chat-on Performance Test Bed Construction and Troubleshooting
 - [The Dream of Media Art digiNORI](https://www.hani.co.kr/arti/economy/working/459626.html) - [diginori.com](https://diginori.com)
+- Development of "LOW-TEMPERATURE COMBUSTION ROCKET" and successful pilot launch, September 2000, Gu Professor of Defense Science Research Institute guided
 
 ### Education
 - a physics major
