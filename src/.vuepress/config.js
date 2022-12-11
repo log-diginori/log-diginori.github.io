@@ -65,6 +65,10 @@ export default {
                 "/en/logs/tech/seo/",
     
                 "/en/logs/tech/ai/",
+
+                "/logs/tech/drone/",
+
+                "/en/logs/tech/agile/",
               ],
             },
             {
@@ -140,6 +144,8 @@ export default {
             "/logs/tech/ai/",
             
             "/logs/tech/drone/",
+
+            "/en/logs/tech/agile/"
           ],
         },
         {
