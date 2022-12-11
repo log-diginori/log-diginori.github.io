@@ -93,3 +93,21 @@ Dave Thomas
 ### 별을 보려면 태양을 꺼라
 - 불편한 이야기를 시작합니다.
 - [사이비 애자일 토론방](https://github.com/log-diginori/log-diginori.github.io/discussions/23)
+
+### 애자일의 실패 - "개발자 천국"
+::: tip 이야기 꺼리 123
+1. 실패는 무엇인가? 애자일에서 - 우리가 얻고자 했던 목표 "경영자 vs 개발자" 는 다른 태양을 보고 있었나?
+2. 이해관계자의 희망은 무엇이며, 비즈니스 가치와 희망은 다른 것인가?
+3. 애자일아는 성경/코란을 두고 신자들을 현옥하고 해야했던 애자일 코치와 회사는 비즈니스 가치가 높은 요구사항을 해결하고 성공하였나?
+:::
+- [애자일 조직은 이렇게 일합니다 비즈니스 가치와 성장 마인드셋에 집중하는 핵심 애자일 원칙 28, 스티브 매코널 저/백미진 역 | 인사이트(insight) | 2022년 06월 29일](http://www.yes24.com/product/goods/110282214?fbclid=IwAR3N963muS9ERSDoiXKaZ1436hjX7AW8z9h6U4zDbMMW7QKy-C-WWujMBsQ)
+
+![애자일 조직은 이렇게 일합니다](http://image.yes24.com/goods/110282214/XL)
+
+### 애자일에 상처입은 사람들의 치유
+- 해장은 술로!
+- 애자일 상처는 애자일 연고로!
+
+::: tip December 11, 2022
+I'll read critically and come back with a book report.
+:::
