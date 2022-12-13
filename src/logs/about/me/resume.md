@@ -51,7 +51,7 @@
 
 
 ### Skills
-::: details Source Software Development Skills
+::: details a pizza knife
 - 파이썬
 - linux & bash
 - 하둡에코시스템 - zeppelin, spark, hive, airflow
@@ -72,11 +72,14 @@
 - 팀은 당신에게 부족한 부분을 막아주고 
 - 당신이 잘하는 부분이 있다면 팀은 당신에게 날개를 달아 주어야 합니다.
 
+- 팀원 강점 발견 및 제품의 시장 승리를 위해 사용하는 능력 탁월!!!
+
 ![team play](https://www.wipub.net/wp-content/uploads/2019/10/101619_1128_TeamPlay1-700x303.jpg)
 :::
 
 ::: details MVP 좋아하고 이렇게 코딩합니다.
 - Minimum Viable Product
+- 디지놀이 & 광고타겟팅 시스템 구축 성공 경험 보유!!!
 
 ![mvp](../../../../images/about/me/mvp.png)
 :::
@@ -84,7 +87,8 @@
 ::: details 저는 여전히 애자일 소프트웨어 개발 선언 지지 합니다.
 - 우리는 소프트웨어를 개발하고, 또 다른 사람의 개발을
 도와주면서 소프트웨어 개발의 더 나은 방법들을 찾아가고
-있다
+있다.
+- 실패를 반성하고 사이비 애자일과 싸우며 프로젝트를 성공으로 이끈 경험 보유!!!
 
 [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
 :::
