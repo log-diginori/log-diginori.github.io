@@ -39,7 +39,8 @@
 - [루비 온 레일즈 성능테스트 및 프로파일링](https://www.slideshare.net/diginorimin/ss-42434557)
 - 첫 애자일 대형 프로젝트의 실패에서 배운 교훈과 남긴 사람들(월드베스트소프트웨어/presidency of MB)
 - 삼성전자 갤럭시 챗온 성능테스트 베드 구축 및 트러블슈팅
-- Establishment of Korea's first one-person creative company / [한샘뭇씀 주식회사](https://www.edaily.co.kr/news/read?newsId=02286166593162440&mediaCodeNo=257) / 대통령직속 미래기획위원장표창을 수상 November 2010
+- Establishment of Korea's first one-person creative company / [한샘뭇씀 주식회사](https://www.edaily.co.kr/news/read?newsId=02286166593162440&mediaCodeNo=257) / 대통령직속 미래기획위원장표창 수상 November 2010
+- [후두 수술 환자를 위한 인공성대 프로텍트, 광주 아시아 문화중심도시 미디어아트 부분](https://www.chosun.com/site/data/html_dir/2010/09/28/2010092801552.html)
 - [디지노리의 꿈](https://www.hani.co.kr/arti/economy/working/459626.html) - [diginori.com](https://diginori.com)
 - Development of "LOW-TEMPERATURE COMBUSTION ROCKET" and successful pilot launch, September 2000, Gu Professor of Defense Science Research Institute guided
 

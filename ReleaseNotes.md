@@ -1,6 +1,9 @@
 # RELEASE
+### v1.6.3
+- [x] namok
+
 ### v1.6.2
-- [ ] agile-fighter
+- [-] agile-fighter
 - [x] drone post fix
 
 ### v1.6.1
