@@ -36,6 +36,7 @@ He is a developer who wants to play
 - Lessons learned from the failure of the first agile megaproject and who left it behind
 - Samsung Electronics' Galaxy Chat-on Performance Test Bed Construction and Troubleshooting
 - [The Dream of Media Art digiNORI](https://www.hani.co.kr/arti/economy/working/459626.html) - [diginori.com](https://diginori.com)
+- [Artificial vocal cords protection for laryngeal surgery patients, media art part of Gwangju Asian Cultural Center](https://www.chosun.com/site/data/html_dir/2010/09/28/2010092801552.html)
 - Development of "LOW-TEMPERATURE COMBUSTION ROCKET" and successful pilot launch, September 2000, Gu Professor of Defense Science Research Institute guided
 
 ### Education
