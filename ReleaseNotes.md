@@ -1,4 +1,15 @@
 # RELEASE
+### v1.6.3
+- [x] namok
+
+### v1.6.2
+- [-] agile-fighter
+- [x] drone post fix
+
+### v1.6.1
+- [x] resume
+- [ ] about digiNORI
+- [ ] abpit datayanolja
 
 ### v1.6.0
 - [x] The multilingual support option has not been set. [i18n](https://v2.vuepress.vuejs.org/guide/i18n.html)

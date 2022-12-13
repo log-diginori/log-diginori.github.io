@@ -65,6 +65,10 @@ export default {
                 "/en/logs/tech/seo/",
     
                 "/en/logs/tech/ai/",
+
+                "/logs/tech/drone/",
+
+                "/en/logs/tech/agile/",
               ],
             },
             {
@@ -75,6 +79,22 @@ export default {
                 "/en/logs/travel/정숙성.md",
     
                 "/en/logs/travel/diet/",
+
+                "/en/logs/travel/naverunion.md",
+              ],
+            },
+            {
+              text: "Korean culture",
+              collapsible: true,
+              children: [
+                "/en/logs/korean-culture/",
+              ],
+            },
+            {
+              text: "about",
+              collapsible: true,
+              children: [
+                "/en/logs/about/me/resume.md",
               ],
             },
           ],
@@ -122,6 +142,10 @@ export default {
             "/logs/tech/seo/",
 
             "/logs/tech/ai/",
+            
+            "/logs/tech/drone/",
+
+            "/en/logs/tech/agile/"
           ],
         },
         {
@@ -132,6 +156,22 @@ export default {
             "/logs/travel/정숙성.md",
 
             "/logs/travel/diet/",
+
+            "/logs/travel/naverunion.md"
+          ],
+        },
+        {
+          text: "Korean culture",
+          collapsible: true,
+          children: [
+            "/logs/korean-culture/",
+          ],
+        },
+        {
+          text: "about",
+          collapsible: true,
+          children: [
+            "/logs/about/me/resume.md",
           ],
         },
       ],
