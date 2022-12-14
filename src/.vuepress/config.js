@@ -71,6 +71,8 @@ export default {
                 "/en/logs/tech/agile/",
 
                 "/en/logs/tech/awskrug-data-science/",
+
+                "/logs/tech/naver-opensource/",
               ],
             },
             {
@@ -157,6 +159,8 @@ export default {
             "/en/logs/tech/agile/",
 
             "/logs/tech/awskrug-data-science/",
+
+            "/logs/tech/naver-opensource/",
           ],
         },
         {
