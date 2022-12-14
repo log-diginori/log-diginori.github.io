@@ -1,6 +1,6 @@
 # RELEASE
 ### v1.6.4
-- [x] gather - teck blog / conf
+- [x] gather - Technical Blog(Individual, company) / Conference
 
 ### v1.6.3
 - [x] namok
