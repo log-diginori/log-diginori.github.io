@@ -91,7 +91,7 @@ export default {
               ],
             },
             {
-              text: "Zip(Blog,Con)",
+              text: "ZIP(blog,con,opensource)",
               collapsible: true,
               children: [
                 "/en/logs/gather/",
@@ -175,7 +175,7 @@ export default {
           ],
         },
         {
-          text: "Zip(Blog,Con)",
+          text: "ZIP(blog,con,opensource)",
           collapsible: true,
           children: [
             "/logs/gather/",
