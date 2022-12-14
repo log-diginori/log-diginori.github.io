@@ -69,6 +69,8 @@ export default {
                 "/en/logs/tech/drone/",
 
                 "/en/logs/tech/agile/",
+
+                "/en/logs/tech/awskrug-data-science/",
               ],
             },
             {
@@ -91,7 +93,7 @@ export default {
               ],
             },
             {
-              text: "ZIP(blog,con,opensource)",
+              text: "ZIP(blog,con)",
               collapsible: true,
               children: [
                 "/en/logs/gather/",
@@ -152,7 +154,9 @@ export default {
             
             "/logs/tech/drone/",
 
-            "/en/logs/tech/agile/"
+            "/en/logs/tech/agile/",
+
+            "/logs/tech/awskrug-data-science/",
           ],
         },
         {
@@ -175,7 +179,7 @@ export default {
           ],
         },
         {
-          text: "ZIP(blog,con,opensource)",
+          text: "ZIP(blog,con)",
           collapsible: true,
           children: [
             "/logs/gather/",
