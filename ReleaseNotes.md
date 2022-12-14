@@ -1,6 +1,7 @@
 # RELEASE
 ### v1.6.4
 - [x] gather - Technical Blog(Individual, company) / Conference
+- [x] [Collaboration-Guide-:::-loG](https://github.com/log-diginori/log-diginori.github.io/wiki/Collaboration-Guide-:::-loG)
 
 ### v1.6.3
 - [x] namok
