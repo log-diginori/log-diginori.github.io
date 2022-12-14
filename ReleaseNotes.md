@@ -1,4 +1,7 @@
 # RELEASE
+### v1.6.5
+- [x] 네이버의 오픈소스 사용 고지
+
 ### v1.6.4
 - [x] gather - Technical Blog(Individual, company) / Conference
 - [x] [Collaboration-Guide-:::-loG](https://github.com/log-diginori/log-diginori.github.io/wiki/Collaboration-Guide-:::-loG)
