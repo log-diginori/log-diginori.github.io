@@ -33,6 +33,13 @@
 - [lowest CO2](https://cloud.google.com/blog/topics/sustainability/pick-the-google-cloud-region-with-the-lowest-co2?hl=en)
 ![google cloud lowest CO2](https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_Run_region_selector.max-700x700.jpg)
 
+::: tip vs AWS
+ - [아마존웹서비스(AWS) 테크에반젤리스트 channyblog 님의 답변 / 질문:aws 에는 lowest CO2 없나요?](https://www.facebook.com/channyblog)
+
+AWS에도 작년 키노트에서 관련 내용을 이미 다루었구요. https://m.youtube.com/watch?v=t130xS5H-Iw&t=789
+데이터센터 뿐만 아니라 고객용 Carbon Footprint Report도 이미 제공하고 있습니다. [AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시](https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/?fbclid=IwAR1f90ejqjYm177UnrZ4O8APGx0CwSFlv9PdRBHp6OumgdJ_z10mI4zWGvY)
+:::
+
 ### 도전 Kaggle
 - 월드컵 기간에 맞춰 랭킹 12번째 등록
 - 친절한 구글분들 
