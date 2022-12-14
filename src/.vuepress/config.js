@@ -91,7 +91,7 @@ export default {
               ],
             },
             {
-              text: "Gather",
+              text: "BLOG & CON",
               collapsible: true,
               children: [
                 "/en/logs/gather/",
@@ -175,7 +175,7 @@ export default {
           ],
         },
         {
-          text: "모아모두",
+          text: "BLOG & CON",
           collapsible: true,
           children: [
             "/logs/gather/",

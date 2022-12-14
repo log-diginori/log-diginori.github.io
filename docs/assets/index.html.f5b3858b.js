@@ -1,1 +1,0 @@
-const e=JSON.parse(`{"key":"v-42b33303","path":"/logs/korean-culture/","title":"KOREAN CULTURE","lang":"ko-KR","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"mother's birthday","slug":"mother-s-birthday","link":"#mother-s-birthday","children":[]}],"git":{"updatedTime":1670029588000},"filePathRelative":"logs/korean-culture/index.md"}`);export{e as data};
