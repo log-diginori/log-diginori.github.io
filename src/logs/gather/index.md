@@ -1,3 +1,13 @@
+<!-- ---
+home: false
+
+heroImage: images/wood-mono.svg
+heroImageDark: images/wood-color.svg
+
+heroText: 'loG'
+title: diginori
+--- -->
+
 # Zip(Blog,Con)
 ::: tip Collaboration Guide & How to Contribute
 - Please refer to the [Contribute Guide](https://github.com/log-diginori/log-diginori.github.io/wiki/Collaboration-Guide-:::-loG) 
