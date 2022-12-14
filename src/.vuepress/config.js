@@ -66,7 +66,7 @@ export default {
     
                 "/en/logs/tech/ai/",
 
-                "/logs/tech/drone/",
+                "/en/logs/tech/drone/",
 
                 "/en/logs/tech/agile/",
               ],
@@ -88,6 +88,13 @@ export default {
               collapsible: true,
               children: [
                 "/en/logs/korean-culture/",
+              ],
+            },
+            {
+              text: "BLOG & CON",
+              collapsible: true,
+              children: [
+                "/en/logs/gather/",
               ],
             },
             {
@@ -165,6 +172,13 @@ export default {
           collapsible: true,
           children: [
             "/logs/korean-culture/",
+          ],
+        },
+        {
+          text: "BLOG & CON",
+          collapsible: true,
+          children: [
+            "/logs/gather/",
           ],
         },
         {

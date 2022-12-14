@@ -3,6 +3,10 @@
 - Technical Blog
 - [loG.diginori.com](https://loG.diginori.com)
 
+# Collaboration Guide / How to Contribute
+- Make this blog yours.
+- [Collaboration-Guide-:::-loG](https://github.com/log-diginori/log-diginori.github.io/wiki/Collaboration-Guide-:::-loG)
+
 # Technical stack
 ## [vuepress v2.0.0-beata53](https://v2.vuepress.vuejs.org)
 - Vue3
@@ -69,5 +73,9 @@ git push
  ／￣＼.　 {__.!　　　　 ＼.）
  ! 　 ∴ |
  ＼＿／
-
+git push --set-upstream origin 221214/gather
 ```
+
+# Respectful Blog
+- [popit / 사람을 키우고 개발자의 삶을 함께 돕고 고민하는 / 링크를 클릭! 바로 기술 블로그 저자가 되세요](https://www.popit.kr/how-to-contribute/)
+
