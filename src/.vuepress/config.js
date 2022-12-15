@@ -108,6 +108,13 @@ export default {
                 "/en/logs/about/me/resume.md",
               ],
             },
+            {
+              text: "Writing",
+              collapsible: true,
+              children: [
+                "/en/logs/writing/1987/",
+              ],
+            },
           ],
         },
       },
@@ -194,6 +201,13 @@ export default {
           collapsible: true,
           children: [
             "/logs/about/me/resume.md",
+          ],
+        },
+        {
+          text: "글쓰기",
+          collapsible: true,
+          children: [
+            "/logs/writing/1987/",
           ],
         },
       ],
