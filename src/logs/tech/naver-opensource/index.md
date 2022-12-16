@@ -5745,3 +5745,6 @@
 
    ### GO! Collaboration
    - 부족하거나 잘못된 내용이 있다면 [discussions](https://github.com/log-diginori/log-diginori.github.io/discussions) 또는 [Collaboration Guide](https://github.com/log-diginori/log-diginori.github.io/wiki/Collaboration-Guide-:::-loG) 를 참고하여 PR 을 보내주신다면 기쁠것 같아요.
+
+   ### 관련된 글
+   - [1987 & 1784 그리고 선배](https://log.diginori.com/logs/writing/1987/)
