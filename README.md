@@ -43,9 +43,14 @@ yarn run docs:dev
 sh build.sh
 ```
 
+- add
+```
+git add .
+```
+
 - commit
 ```
-git commit -m "vX.Y.X"
+git commit -m "bla bla bla"
 ```
 
 - push

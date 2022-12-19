@@ -72,7 +72,9 @@ export default {
 
                 "/en/logs/tech/awskrug-data-science/",
 
-                "/logs/tech/naver-opensource/",
+                "/en/logs/tech/naver-opensource/",
+
+                "/en/logs/tech/rust-devops/",
               ],
             },
             {
@@ -168,6 +170,8 @@ export default {
             "/logs/tech/awskrug-data-science/",
 
             "/logs/tech/naver-opensource/",
+
+            "/logs/tech/rust-devops/",
           ],
         },
         {

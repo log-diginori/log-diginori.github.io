@@ -263,3 +263,8 @@ def isHappy(msg: str) -> bool:
 True
 ```
 ![sweatsuit](../../../../images/nhnforword/sweatsuit.webp)
+
+### 치킨이닭!
+- 오늘은 치킨이닭!
+- 블로그 이벤트에 당첨이 되었다.
+- 감사하다. 이따다끼마스 ~
