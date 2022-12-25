@@ -1,6 +1,6 @@
 {
   "name": "log-diginori.github.io",
-  "version": "1.6.7",
+  "version": "1.7.0",
   "description": "grep -E 'open|source|mind' >> loG",
   "main": "index.js",
   "author": "Tom Sawyer",
@@ -13,5 +13,8 @@
   "scripts": {
     "docs:dev": "vuepress dev src",
     "docs:build": "vuepress build src"
+  },
+  "dependencies": {
+    "firebase": "^9.15.0"
   }
 }
