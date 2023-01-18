@@ -3,7 +3,7 @@
 - [뭐 필요한거 없수 - 두레와 품앗이가 애자일이다,2016-08-16, popit](https://www.popit.kr/%eb%ad%90-%ed%95%84%ec%9a%94%ed%95%9c%ea%b1%b0-%ec%97%86%ec%88%98-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%84%b1%ea%b3%b5-%ec%b2%99%eb%8f%84/)
 - 오랜만입니다. 2022/12/11 어느 일요일 오전 ㄴ.ㄴ
 
-![애자일 사랑방](../../../../images/agile/agile-sarangbang.jpeg)
+![애자일 사랑방](../../../images/agile/agile-sarangbang.jpeg)
 
 ::: danger 그간 우물쭈물 주저하며 ...
 - [agile 組織] 부서 간의 경계를 허물고, 필요에 맞게 소규모 팀을 구성해 업무수행을 하는 조직 문화

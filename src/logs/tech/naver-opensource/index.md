@@ -32,11 +32,11 @@
    - 안드로이드는 "법적공지" iOS 는 "오픈소스 라이선스" 라는 메뉴에서 확인 가능하다. 통일 되면 좋겠다.
    #### 안드로이드 v11.17.5
    -> 법정공지"
-   ![NAVER APP](../../../../images/naver-opensource/naverapp-opensource.png)
+   ![NAVER APP](../../../images/naver-opensource/naverapp-opensource.png)
 
    #### ios v11.18.1
    -> 오픈소스라이선스
-   ![NAVER APP](../../../../images/naver-opensource/naver-app-opensource-ipad.jpeg)
+   ![NAVER APP](../../../images/naver-opensource/naver-app-opensource-ipad.jpeg)
    :::
 
    ### 오픈소스 사용 내역 공개 전문

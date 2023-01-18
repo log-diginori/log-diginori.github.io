@@ -17,7 +17,7 @@ MEPLACE는 특정 공간이 본래 가지고 있던 고유기능을 넘어서 �
 그곳에서 협업, 체험, 재생, 개방, 공유,문화를 바탕으로 새로운 정체성을 부여 하고자 합니다.
 :::
 
-![mespace](../../../images/meplace/buildingExterior.webp)
+![mespace](../../images/meplace/buildingExterior.webp)
 
 ## 생길거예요 좋은일이
 ```
@@ -27,15 +27,15 @@ MEPLACE는 특정 공간이 본래 가지고 있던 고유기능을 넘어서 �
 코드가쭉쭉
 짜질겁니돠
 ```
-![mespace](../../../images/meplace/goodThings.webp)
+![mespace](../../images/meplace/goodThings.webp)
 
 ## 노버그 루프탑 코딩
-![mespace](../../../images/meplace/rooftop.webp)
-![mespace](../../../images/meplace/windowAndTable.webp)
+![mespace](../../images/meplace/rooftop.webp)
+![mespace](../../images/meplace/windowAndTable.webp)
 
 ## 논란의 카페
 - 동의하기 어렵지만 화장실 깨끗해요
-![mespace](../../../images/meplace/tp.webp)
+![mespace](../../images/meplace/tp.webp)
 
 ## 해피해킹 쌉가능 카페
 

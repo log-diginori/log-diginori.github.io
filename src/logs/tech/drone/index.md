@@ -62,7 +62,7 @@ Please register as a browser favorite.
 # 배송 영업일 기준 2일 소요
 # 드론의 크기 가늠 위해 마우스 시계 키보드 배치
 ```
-![open dron box](../../../../images/drone/dron-open-6-422.jpg)
+![open dron box](../../../images/drone/dron-open-6-422.jpg)
 
 ### 파이썬으로 프로그램의 시작
 - [GITHUB](https://docs.github.com/ko/get-started)에 [DJI 에서 공개한 SDK](https://github.com/dji-sdk/Tello-Python)가 있음
@@ -70,4 +70,4 @@ Please register as a browser favorite.
 
 ### Drone Outdoor Ambitious Flight Training in the Park
 - Follow the attached paper guide to familiarize yourself with drone coordination before programming. / So we tried flying drones in the park, cutting through the night air.
-![Drone Outdoor Ambitious Flight Training](../../../../images/drone/Drone-Outdoor-Ambitious-Flight-Training.jpeg)
+![Drone Outdoor Ambitious Flight Training](../../../images/drone/Drone-Outdoor-Ambitious-Flight-Training.jpeg)

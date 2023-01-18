@@ -5,7 +5,7 @@
 2. 그 방송이 녹화된 걸 지켜보는 유재석씨가 자신이 했던 멘트라던지 추임새 등을 보면서 '다음번에는 어떤식으로 고쳐야겠다.' 라는 식으로 개선 가능한 부분 등을 위해 다양하게 관찰하고 기록해서 개선 할 수 있게 만드는 것을 옵저버빌리티의 차이라고 함께 설명을 하고 있고요.. ㅎㅎㅎ
 :::
 -  [If I have seen a little further it is by standing in the shoulders of Giants. - issack newton -](https://dayofblog.pe.kr/758)
-![observability vs monitoring](../../../../images/tech/observabilityVSmonitoring.jpeg)
+![observability vs monitoring](../../../images/tech/observabilityVSmonitoring.jpeg)
 
 ### class SRE implements DevOps
 - [클라우드 시대에 맞는 사이트 신뢰성 엔지니어, Outsider/당근마켓 SRE](https://docs.google.com/presentation/d/1-kA1N_7kCwJTwBizE3KJ6AhHghGqI8WZfMkBr0WuqWo/edit#slide=id.g13fe81ef2f1_18_42)

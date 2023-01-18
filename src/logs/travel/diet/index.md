@@ -13,7 +13,7 @@
 - 먹을 때 느낌은 더 코칼아냐?
 ```
 
-![밀스원](../../../../images/diet/diet-food-1.webp)
+![밀스원](../../../images/diet/diet-food-1.webp)
 
 조리 전/후 꿀맛 든든 375Kcal 낚지덮밥 + 계란 ...
 
