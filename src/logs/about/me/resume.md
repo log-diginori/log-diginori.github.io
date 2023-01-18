@@ -4,7 +4,7 @@
 - 철원 1월 추위 4주차 야상 빨아 입고 연병장에 사열했다. 덜 말라 김이 모락모락 나는 나를 발견한 대대장님이 모범 사병이라며 퇴소식서 표창장을 ...
 
 ::: details I am gangnam style
-![phy](../../../../images/about/me/phy.jpeg)
+![phy](../../../images/about/me/phy.jpeg)
 :::
 
 # Coffee chat
@@ -24,9 +24,6 @@
 ![image](https://user-images.githubusercontent.com/10396850/206878974-8097c549-8d55-441d-9564-7b5e6092bd62.png)
 :::
 
-<!-- 
-![phy](../../../../images/about/me/line-bujang-2.jpeg)
-![phy](../../../../images/about/me/m-and-l.png) -->
 
 ### What am I proud of?
 - 네이버 전사 데이터 수집 파이프라인 생성 및 저수지 메타 활용 자동 배치 생성 모듈 개발
@@ -81,7 +78,7 @@
 - Minimum Viable Product
 - 디지놀이 & 광고타겟팅 시스템 구축 성공 경험 보유!!!
 
-![mvp](../../../../images/about/me/mvp.png)
+![mvp](../../../images/about/me/mvp.png)
 :::
 
 ::: details 저는 여전히 애자일 소프트웨어 개발 선언 지지 합니다.
@@ -105,11 +102,11 @@
 ### Bonus+
 
 ::: details bonus shorts
-![dg](../../../../images/about/me/dg-3-naver.jpeg)
-![dg-sk-zeppelin](../../../../images/about/me/dg-min-sk-emr.jpeg)
-![gs](../../../../images/about/me/gs.jpeg)
-![lhj](../../../../images/about/me/m-and-l.png)
-![lhj](../../../../images/about/me/db-b.jpeg)
+![dg](../../../images/about/me/dg-3-naver.jpeg)
+![dg-sk-zeppelin](../../../images/about/me/dg-min-sk-emr.jpeg)
+![gs](../../../images/about/me/gs.jpeg)
+![lhj](../../../images/about/me/m-and-l.png)
+![lhj](../../../images/about/me/db-b.jpeg)
 
 ( ◜࿀◝ ) [데놀앨범](https://photos.app.goo.gl/bjzHgdkjWCYATQCY2)
 ![dn](https://lh3.googleusercontent.com/pw/AL9nZEXXR-7VxWU6i7PQLIpw7427xaBetry88BRCyvNVerFvRz682fp2hcngmz_5jQfgTCo6LbAyGm110MVjmR6TtsX02cra6IZ_juumMb-KG0RpLjKTSI1xaDQbBQOMePybCkzFZuaEO15MFqm9ZQHXAXV3=w1440-h1080-no?authuser=0)

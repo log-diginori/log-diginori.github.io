@@ -196,7 +196,7 @@ model.add(Dense(1, activation='sigmoid'))
 #### 오늘의코드
 
 - [박조은](https://www.youtube.com/todaycode) 선생님 여러운거 쉽게 설명해 주셔서 감사합니다. 역시 어렵지만 못피하니 즐겨야죠. 하하하
-  ![todaycode](../../../../images/lablup/dcamp-backend-ai-5.webp)
+  ![todaycode](../../../images/lablup/dcamp-backend-ai-5.webp)
 
   #### lablup goods
 
@@ -204,7 +204,7 @@ model.add(Dense(1, activation='sigmoid'))
   송월타월! 게임끝 역시 업계 최고 파이썬 괴수님들 회사다움
   그리고 그냥 송월타월이 아니다 수가 보통이 아니다. 아는 사람은 안다!
   :::
-  ![lablup goods](../../../../images/lablup/dcamp-backend-ai-4.webp)
+  ![lablup goods](../../../images/lablup/dcamp-backend-ai-4.webp)
 
   #### lab l up > /conf/2
 
@@ -224,6 +224,6 @@ model.add(Dense(1, activation='sigmoid'))
   - 선정릉이 보이는 테라스 춥지만 끝나고 간단한 피맥이라고 했더라면 !
     :::
 
-  ![lablup-con-1](../../../../images/lablup/dcamp-backend-ai-1.webp)
-  ![lablup-con-2](../../../../images/lablup/dcamp-backend-ai-2.webp)
-  ![lablup-con-3](../../../../images/lablup/dcamp-backend-ai-3.webp)
+  ![lablup-con-1](../../../images/lablup/dcamp-backend-ai-1.webp)
+  ![lablup-con-2](../../../images/lablup/dcamp-backend-ai-2.webp)
+  ![lablup-con-3](../../../images/lablup/dcamp-backend-ai-3.webp)

@@ -6,7 +6,7 @@
 담겻다
 ```
 ### with socks past the pants
-![n1](../../../../images/nhnforword/sports.webp)
+![n1](../../../images/nhnforword/sports.webp)
 
 ### developer t-shirts maniac
 - slideshare [파이콘2016 개발자티셔츠덕후의-어느일요일아침](https://www.slideshare.net/diginorimin/2016-64973868)

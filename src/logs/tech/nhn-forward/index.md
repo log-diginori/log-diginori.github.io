@@ -50,7 +50,7 @@ NHN FORWARD 구름처럼 많은 인파가 모였다.
 
 많은 사람들이 기다려온 만큼 잘 준비된 행사였다.
 ```
-![nhnforward-1](../../../../images/nhnforword/social-preview-nhnforward.png)
+![nhnforward-1](../../../images/nhnforword/social-preview-nhnforward.png)
 
 ### FORWARD
 ```
@@ -82,7 +82,7 @@ Dooray 로 협업하면 행복 할끄니까 ~
 　　　　≡(ノ´
 
 ```
-![dooray developer](../../../../images/nhnforword/dooray.webp)
+![dooray developer](../../../images/nhnforword/dooray.webp)
 
 ### banUH
 - 세션 : [NHN Cloud Notification API + Microsoft 파워 플랫폼 = Awesome 로우코드/노코드 마케팅 도구](https://forward.nhn.com/2022/sessions/7)
@@ -105,7 +105,7 @@ API 우선 접근 방식과 OpenAPI Specification
 과 연결된 프로젝트다 이것도 다시보기 추천!
 ```
 
-![banUH](../../../../images/nhnforword/a.webp)
+![banUH](../../../images/nhnforword/a.webp)
 
 ### Let's focus on FE development
 - 세션 [밑바닥부터 만들어 보는 UI 프레임워크](https://forward.nhn.com/2022/sessions/37)
@@ -118,7 +118,7 @@ composition api 원리 이해에 유익
 
 NHN 엔 괴수 개발자가 많다 @.@
 ```
-![vuu3](../../../../images/nhnforword/vue.webp)
+![vuu3](../../../images/nhnforword/vue.webp)
 
 ### OPENTELEMETRY
 - 세션 : [OpenTelemetry를 활용한 모니터링](https://forward.nhn.com/2022/sessions/33)
@@ -133,7 +133,7 @@ Traces - 어떤 요청이 처리될 때 경로
 기본 개념에서 시작하여
 깊숙한 인사이트를 나누어 주셨다
 ```
-![opentelemetray](../../../../images/nhnforword/opentelemetry.jpeg)
+![opentelemetray](../../../images/nhnforword/opentelemetry.jpeg)
 
 ### COFFE TALK
 ```
@@ -142,7 +142,7 @@ Traces - 어떤 요청이 처리될 때 경로
 호텔 식사는 앞만 보고 먹어야 한다
 김밥이더라도 모여 앉아 먹는게 더 좋겠다
 ```
-![talk](../../../../images/nhnforword/talk.webp)
+![talk](../../../images/nhnforword/talk.webp)
 
 ### LOUNGE TALK
 ```
@@ -190,9 +190,9 @@ NHN 개발자를 챙겨주는 마음이 따뜻하다
 기술로 더 나은 세상을 만들어 가는 
 사람들과 함께하는 기술 콘퍼런스 OK!
 ```
-![goods-1](../../../../images/nhnforword/goods-1.webp)
-![goods-g](../../../../images/nhnforword/dooray-g.webp)
-![goods-g](../../../../images/nhnforword/bus.webp)
+![goods-1](../../../images/nhnforword/goods-1.webp)
+![goods-g](../../../images/nhnforword/dooray-g.webp)
+![goods-g](../../../images/nhnforword/bus.webp)
 
 # 굿즈론
 - 그것이 알고 싶다
@@ -201,7 +201,7 @@ NHN 개발자를 챙겨주는 마음이 따뜻하다
 - 마음과 마음은 어떻게 통하는지?
 - 아무튼 감사하다(침착맨톤)
 - [theory of goods](./theory-of-goods.md)에서 다루어 보자!
-![g-a-all](../../../../images/nhnforword/nhn-g-ani-all.gif)
+![g-a-all](../../../images/nhnforword/nhn-g-ani-all.gif)
 
 ### Q&A
 ::: details
@@ -211,7 +211,7 @@ NHN 개발자를 챙겨주는 마음이 따뜻하다
 
 - 블로그 작성 이벤트가 있을까요? -> 아래 사항 확인!
 ::: details 블로그 이벤트 참가 방법 및 경품
-![blog-evnet](../../../../images/nhnforword/nhnforwad-evnet.png)
+![blog-evnet](../../../images/nhnforword/nhnforwad-evnet.png)
 :::
 
 ### REFERENCE
@@ -262,7 +262,7 @@ def isHappy(msg: str) -> bool:
 >>> isHappy('NHN FORWARD 23 에서 만나요 ~')
 True
 ```
-![sweatsuit](../../../../images/nhnforword/sweatsuit.webp)
+![sweatsuit](../../../images/nhnforword/sweatsuit.webp)
 
 ### 치킨이닭!
 - 오늘은 치킨이닭!

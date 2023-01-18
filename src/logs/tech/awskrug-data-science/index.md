@@ -16,7 +16,7 @@ Amazon ECS 를 활용하여 데이터팀 내에 Airflow 인프라와
 - [Collaboration Guide](https://github.com/log-diginori/log-diginori.github.io/wiki/Collaboration-Guide-:::-loG) 를 참고하여 교정 및 보강 PR 을 주신다면 진심으로 감사드리겠습니다.
 :::
 
-![awskrug airflow](../../../../images/awskrug-data-science/aws-airflow.jpeg)
+![awskrug airflow](../../../images/awskrug-data-science/aws-airflow.jpeg)
 
 ### 참가신청
 - 페이스북에서 보고 밋업앱에서 참가신청 / aws 입주건물 출입이 까다로우니 밋업 안내에 따라 2틀전에 신청해야 함 - 아니면 보안 통과 까다로움 / 배움앞에 포기란 없지!
@@ -35,7 +35,7 @@ Amazon ECS 를 활용하여 데이터팀 내에 Airflow 인프라와
 - 빌드속도를 빠르게 할려고 EFS 를 마운트 시켜두고 Codebuild 복사
 - 배포속도 70초 완성
 - 모든 인스턴스가 EFS 가 공유하므로 한 곳에 복사하면 끝!
-![awskrug efs](../../../../images/awskrug-data-science/aws-efs.jpeg)
+![awskrug efs](../../../images/awskrug-data-science/aws-efs.jpeg)
 
 ### 서비스는 블루그린으로 배포해도 무방
 
@@ -57,7 +57,7 @@ Amazon ECS 를 활용하여 데이터팀 내에 Airflow 인프라와
 ### 타 팀과의 협업
 - 코드가 커밋되면 알아서 돈다.
 - db 만 제공하고 api 는 각자 만들어라. - api 까지 만들면 장애대응 까지 해야 하니까 / 그건 개발자의 일~
-![awskrug efs](../../../../images/awskrug-data-science/aws-co.jpeg)
+![awskrug efs](../../../images/awskrug-data-science/aws-co.jpeg)
 
 ### 데이터팀의 구성
 - 애자일이 성숙화 되지 않았다. 아직
@@ -94,4 +94,4 @@ Amazon ECS 를 활용하여 데이터팀 내에 Airflow 인프라와
 
 - 녹화본은 [YouTube AWS 한국사용자모임 - AWSKRUG](https://www.youtube.com/c/awskrug)에 올릴 예정.
 
-![awskrug efs](../../../../images/awskrug-data-science/aws-cup.jpeg)
+![awskrug efs](../../../images/awskrug-data-science/aws-cup.jpeg)

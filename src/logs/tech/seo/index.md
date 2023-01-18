@@ -4,8 +4,8 @@
 - You can follow the guide on the site [https://analytics.google.com/](https://analytics.google.com/)
 - You can see the following screen in an hour or two
 - Path Navigation Analysis
-![google analytics main](../../../../images/analytics.google.com/analytics.google.com-1.png)
-![google analytics report](../../../../images/analytics.google.com/analytics.google.com-2.png)
+![google analytics main](../../../images/analytics.google.com/analytics.google.com-1.png)
+![google analytics report](../../../images/analytics.google.com/analytics.google.com-2.png)
 ![google analytics path navigation](https://user-images.githubusercontent.com/10396850/205191457-9f1c58ff-fa0c-4975-9f3d-f1bfbd609dfc.png)
 
 
@@ -15,7 +15,7 @@
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 googleAnalyticsPlugin({
-    id: 'G-B5QYS2JYSW',
+    id: 'G-B12345678',
     debug: true,
 }),
 ```

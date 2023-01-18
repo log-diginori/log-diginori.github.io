@@ -1,0 +1,1 @@
+const s="/assets/candlelight.7948926c.png",a="/assets/Japchae.06141088.webp",e="/assets/pankake.0ba3712a.webp",t="/assets/Puppy.a18f1a1b.webp",p="/assets/Seaweed.7203c1b8.webp",c="/assets/shrimp.b54a9ec0.webp",o="/assets/KimchiStew.843c22e8.jpeg",_="/assets/SpicyFreshwaterFishStew.d9ff8b23.jpeg";export{s as _,a,e as b,t as c,p as d,c as e,o as f,_ as g};
