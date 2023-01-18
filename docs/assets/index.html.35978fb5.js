@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-996cf6fe","path":"/en/logs/tech/ai/","title":"AI & DEEP LEARNING","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"Backend.AI","slug":"backend-ai","link":"#backend-ai","children":[]}],"git":{"updatedTime":1670023336000},"filePathRelative":"en/logs/tech/ai/index.md"}');export{e as data};
