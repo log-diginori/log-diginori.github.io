@@ -1,6 +1,10 @@
 # RELEASE
-### v1.7.1
+
+### v1.7.2
 - [ ] so bing size reop -> donw down ...
+
+### v1.7.1
+- [x] so bing size reop -> donw down ...
 
 ### v1.7.0
 - [x] Merry Christmas [google firebase](https://vuepress.vuejs.org/guide/deploy.html#google-firebase)
