@@ -153,6 +153,7 @@ export default {
           text: "Technology",
           collapsible: true,
           children: [
+            "/logs/tech/k8s/",
             "/logs/tech/nhn-forward/",
             "/logs/tech/naver-cloud-summit/",
             "/logs/tech/google-cloud-innovators-hive/",
