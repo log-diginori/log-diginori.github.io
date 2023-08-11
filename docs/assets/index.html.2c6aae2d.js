@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2c301a0d","path":"/logs/travel/diet/","title":"DIET","lang":"ko-KR","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"DIET FOOD","slug":"diet-food","link":"#diet-food","children":[]}],"git":{"updatedTime":1670164635000},"filePathRelative":"logs/travel/diet/index.md"}');export{e as data};
