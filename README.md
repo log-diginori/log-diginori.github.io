@@ -62,6 +62,14 @@ git push
 
 - Visit in a few minutes -> https://log.diginori.com
 
+# To add a blog post
+```bash
+$ mkdir  src/logs/tech/outlier-detection
+$ touch src/logs/tech/outlier-detection/index.md
+# add menue
+$ vi src/.vuepress/config.js 
+```
+
 # Happy hacking
 ```
  　 　　 ∧＿∧

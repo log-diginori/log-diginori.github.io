@@ -10,23 +10,33 @@ export default {
   title: "loG",
   description: "make a better world. so make a better loG.digiNORI",
   head: [
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'diginori loG' }],
-    ['meta', { property: 'og:description', content: 'so make a better loG.digiNORI' }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/10396850/205328536-741b634a-c7e4-4721-b0be-79a4a396b2bc.png' }],
-    ['meta', { property: 'og:url', content: 'https://log.diginori.com' }],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:title", content: "diginori loG" }],
+    [
+      "meta",
+      { property: "og:description", content: "so make a better loG.digiNORI" },
+    ],
+    [
+      "meta",
+      {
+        property: "og:image",
+        content:
+          "https://user-images.githubusercontent.com/10396850/205328536-741b634a-c7e4-4721-b0be-79a4a396b2bc.png",
+      },
+    ],
+    ["meta", { property: "og:url", content: "https://log.diginori.com" }],
   ],
 
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
-    '/en/': {
-      lang: 'en-US',
+    "/en/": {
+      lang: "en-US",
       // title: 'loG',
       // description: 'make a better world. so make a better loG.digiNORI',
     },
-    '/': {
-      lang: 'ko-KR',
+    "/": {
+      lang: "ko-KR",
       // title: '디지노리 로그',
       // description: '더 나은 세상을 만들자. 이를 위해 더 나은 로그를 남겨가자. 디지노리.',
     },
@@ -45,11 +55,11 @@ export default {
 
   theme: defaultTheme({
     locales: {
-      '/': {
-        selectLanguageName: 'Korean',
+      "/": {
+        selectLanguageName: "Korean",
       },
-      '/en/': {
-        selectLanguageName: 'English',
+      "/en/": {
+        selectLanguageName: "English",
         sidebar: {
           "/en/logs/": [
             {
@@ -59,11 +69,11 @@ export default {
                 "/en/logs/tech/nhn-forward/",
                 "/en/logs/tech/naver-cloud-summit/",
                 "/en/logs/tech/google-cloud-innovators-hive/",
-    
+
                 "/en/logs/tech/1784/",
                 "/en/logs/tech/sre/",
                 "/en/logs/tech/seo/",
-    
+
                 "/en/logs/tech/ai/",
 
                 "/en/logs/tech/drone/",
@@ -83,7 +93,7 @@ export default {
               children: [
                 "/en/logs/travel/meplace.md",
                 "/en/logs/travel/정숙성.md",
-    
+
                 "/en/logs/travel/diet/",
 
                 "/en/logs/travel/naverunion.md",
@@ -92,30 +102,22 @@ export default {
             {
               text: "Korean culture",
               collapsible: true,
-              children: [
-                "/en/logs/korean-culture/",
-              ],
+              children: ["/en/logs/korean-culture/"],
             },
             {
               text: "ZIP(blog,con)",
               collapsible: true,
-              children: [
-                "/en/logs/gather/",
-              ],
+              children: ["/en/logs/gather/"],
             },
             {
               text: "about",
               collapsible: true,
-              children: [
-                "/en/logs/about/me/resume.md",
-              ],
+              children: ["/en/logs/about/me/resume.md"],
             },
             {
               text: "Writing",
               collapsible: true,
-              children: [
-                "/en/logs/writing/1987/",
-              ],
+              children: ["/en/logs/writing/1987/"],
             },
           ],
         },
@@ -162,7 +164,7 @@ export default {
             "/logs/tech/seo/",
 
             "/logs/tech/ai/",
-            
+
             "/logs/tech/drone/",
 
             "/en/logs/tech/agile/",
@@ -172,6 +174,8 @@ export default {
             "/logs/tech/naver-opensource/",
 
             "/logs/tech/rust-devops/",
+
+            "/logs/tech/outlier-detection/",
           ],
         },
         {
@@ -183,36 +187,28 @@ export default {
 
             "/logs/travel/diet/",
 
-            "/logs/travel/naverunion.md"
+            "/logs/travel/naverunion.md",
           ],
         },
         {
           text: "Korean culture",
           collapsible: true,
-          children: [
-            "/logs/korean-culture/",
-          ],
+          children: ["/logs/korean-culture/"],
         },
         {
           text: "ZIP(blog,con)",
           collapsible: true,
-          children: [
-            "/logs/gather/",
-          ],
+          children: ["/logs/gather/"],
         },
         {
           text: "about",
           collapsible: true,
-          children: [
-            "/logs/about/me/resume.md",
-          ],
+          children: ["/logs/about/me/resume.md"],
         },
         {
           text: "글쓰기",
           collapsible: true,
-          children: [
-            "/logs/writing/1987/",
-          ],
+          children: ["/logs/writing/1987/"],
         },
       ],
     },
