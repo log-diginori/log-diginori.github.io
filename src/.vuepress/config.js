@@ -179,7 +179,7 @@ export default {
           ],
         },
         {
-          text: "CON",
+          text: "Conference",
           collapsible: true,
           children: ["/logs/con/pycon2023/"],
         },
