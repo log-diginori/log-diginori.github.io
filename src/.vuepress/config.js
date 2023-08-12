@@ -179,6 +179,11 @@ export default {
           ],
         },
         {
+          text: "CON",
+          collapsible: true,
+          children: ["/logs/con/pycon2023/"],
+        },
+        {
           text: "Travel",
           collapsible: true,
           children: [
