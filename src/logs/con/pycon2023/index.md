@@ -45,3 +45,11 @@
 - [분석(分析)](https://ko.dict.naver.com/#/entry/koko/c9f9949f666044b1949f457e82bca2da) - 한자가 이렇게 중요하다. 나눌 분! 쪼갤 석!
 - 발표 차트에 나온 주단위 레텐션 ... 차트는 어떻게 그리신건가 궁금하다. 아주!
 - 파이콘 부스에서 공식로고 티셔츠를 판매 중 이라고 하심가. 고고!!!
+
+
+### 래블업 언어 모델 프롬프팅
+![래블업 언어 모델 프롬프팅](https://user-images.githubusercontent.com/10396850/260206171-491d1ec2-39bc-452c-9263-85c38c61ad52.png)
+
+- 나는 아래와 같이 해봤다. 이렇게 저렇게 해봤는데 이게 맘에 들엇다.  [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)에 대한 링크도 아래에 표기되어 있다.
+
+![내가 해본거](https://user-images.githubusercontent.com/10396850/260206540-b4a71220-3f08-4582-81d4-8d6d834b6c10.png)
