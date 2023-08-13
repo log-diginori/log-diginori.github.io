@@ -44,7 +44,8 @@
 - 공공포털에서 가장 큰 데이터는 국민건강보험공단_의약품 31G -> parquet (5G) -> 조금씩 읽어서 파일로 쓰고 다시 읽고 ~
 - [분석(分析)](https://ko.dict.naver.com/#/entry/koko/c9f9949f666044b1949f457e82bca2da) - 한자가 이렇게 중요하다. 나눌 분! 쪼갤 석!
 - 발표 차트에 나온 주단위 레텐션 ... 차트는 어떻게 그리신건가 궁금하다. 아주!
-- 파이콘 부스에서 공식로고 티셔츠를 판매 중 이라고 하심가. 고고!!!
+- 파이콘 부스에서 공식로고 티셔츠를 판매 중 이라고 하심가. 고고!!! 단돈 2만원 공식 로고 티셔츠 득탬 ~
+- 그래서 물어봄 ML 만드는건 어렵고 모르고 재미난 모델을 받아서 재미난 서비스를 만들고 싶어요. 어디로 가면 되나요? -> [허깅페이스][https://huggingface.co/]
 
 
 ### 래블업 언어 모델 프롬프팅
@@ -146,3 +147,20 @@ class Point:
 - PEP-492 async/await CPU 를 놓게 하지 말고 ... 코드를 갈아 없어야 한다. gunicorn -> uvicorn
 - 3.11 은 3.10 대비 아무런 변화 없이 성능 개선
 - 모든 파이썬의 변화는 PEP
+
+### MLOps, LLM 개발에 필요한 실전 파이썬 디자인 패턴
+- https://2023.pycon.kr/session/30
+- 23개의 디자인 패턴 생성, 구조, 행동 2개로 나눔
+
+### 라이트닝톡
+- https://docs.google.com/document/u/0/d/1gfeBePHVNb2VFyONmy-r-qm9_hSNe_FDa8KsK9upKrI/mobilebasic
+- https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit?usp=sharing
+``` yaml
+- Numerical Methods in Scipy
+    - https://github.com/kangwonlee/nmisp
+    - 다양한 수치 해법을 Python 언어와 그 확장 기능인 SciPy 를 이용하여 설명
+
+- 고랭 코리아 커뮤니티를 소개합니다!
+    - gogo
+
+```
