@@ -106,3 +106,43 @@
 ### Python DDD
 - https://2023.pycon.kr/session/6
 - 도매인 전문가와 개발자간의 소통을 중요하게 생각함 - 유비쿼터스 랭귀지를 정의함
+
+### FastAPI Deep-dive
+- [https://2023.pycon.kr/session/21](https://2023.pycon.kr/session/21)
+- FastAPI가 어떻게 "Fast"를 달성할 수 있었는지
+- Uvcorn ASGI WSGI 랑 다름
+
+
+### Python2 개발자의 Python3 개발 도전기
+- PEP-498 {year=}
+- PEP-484 Type Hints
+```python
+def sum(a: int, b: int) -> int:
+    return a + b
+
+# 에러 없음
+print(f"{sum(3, 3.2)}")
+
+# check
+mypy main.py
+```
+- @dataclass PEP-557
+``` python
+from dataclasses ...
+
+@dataclass
+class Point:
+    x: int
+    y: int
+    z: int
+
+# fast api
+@dataclass
+class Point:
+    id: int
+    name: int
+    ename: int
+```
+- PEP-492 async/await CPU 를 놓게 하지 말고 ... 코드를 갈아 없어야 한다. gunicorn -> uvicorn
+- 3.11 은 3.10 대비 아무런 변화 없이 성능 개선
+- 모든 파이썬의 변화는 PEP
