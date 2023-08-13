@@ -153,8 +153,8 @@ class Point:
 - 23개의 디자인 패턴 생성, 구조, 행동 2개로 나눔
 
 ### 라이트닝톡
-- https://docs.google.com/document/u/0/d/1gfeBePHVNb2VFyONmy-r-qm9_hSNe_FDa8KsK9upKrI/mobilebasic
-- https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit?usp=sharing
+- [목차](https://docs.google.com/document/u/0/d/1gfeBePHVNb2VFyONmy-r-qm9_hSNe_FDa8KsK9upKrI/mobilebasic)
+- [평화](https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit?usp=sharing)
 ``` yaml
 - Numerical Methods in Scipy
     - https://github.com/kangwonlee/nmisp
