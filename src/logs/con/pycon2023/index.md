@@ -83,3 +83,26 @@
 - 벤토는 모든 ML.Framework 와 연결가능하다.
 - 고성능이 필요하다면 triton-inference-server 는 매우 좋은 선택 - 벤토에서 러너로 지원이 가느하다. 공식 문서를 찾아 보자.
 - [질문] 발표에서 보여준 프로파일링은 어떻게 하나요? [프로파일링은 파이참에서 c프로파일링으로 사용한다.](https://plugins.jetbrains.com/plugin/16536-line-profiler) 발표처럼 GUI 를 제공한다.
+
+### Python으로 전자음악 작곡하기
+![파이썬 음악 만들기](https://github.com/log-diginori/log-diginori.github.io/assets/10396850/84fefda9-6153-4207-8c7f-e43c871278ed)
+- [python으로 numpy와 pedalboard를 이용해서 신디사이저를 구현해봅니다](https://2023.pycon.kr/session/28)
+- 3분 길의의 음악을 작곡하려면 8백만게 값을 ...
+- 인간의 귀에 음악처럼 들리도록 하는 연속된 값을 만들어 내는 것이 신디사이저
+
+### 열린점심
+![wow](https://github.com/log-diginori/log-diginori.github.io/assets/10396850/82a15a56-7ca5-431e-bbb5-e4aca2512283)
+- AI 로 돈을 버는 방법에 대해 맛있는 점심을 함께 하며 이야기 나눔
+- 크립토 ccxt 롱 숏 유니버스 벡테스트 ...
+
+
+### Pynecone 프레임워크로 웹 기반 운영도구 개발하기
+![pynecone](https://github.com/log-diginori/log-diginori.github.io/assets/10396850/e919081e-1687-4ef3-9934-18a0b84da9f2)
+- [파인콘](pynecone.io) - [reflex](https://reflex.dev/)라는 이름으로 다시 브랜딩
+- 오호라 자바 스크립트 어려운 나에게 큰 도움이
+- 질문 - 차트는 아직 미숙하지만 테이블, 버튼 운영도구로 사용하기 편하다
+
+
+### Python DDD
+- https://2023.pycon.kr/session/6
+- 도매인 전문가와 개발자간의 소통을 중요하게 생각함 - 유비쿼터스 랭귀지를 정의함
