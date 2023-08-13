@@ -1,3 +1,7 @@
+---
+title: PYCON 2023
+image: https://pbs.twimg.com/media/F3a20xBbwAA37Lo?format=jpg&name=4096x4096
+---
 # PYCON 2023
 - [https://2023.pycon.kr/session/schedule](https://2023.pycon.kr/session/schedule)
 ::: tip 
@@ -163,4 +167,38 @@ class Point:
 - 고랭 코리아 커뮤니티를 소개합니다!
     - gogo
 
+- 공공기관에서 ‘비 전공자’가 전산도 ‘같이’하면서 사는 이야기
+    - https://www.instagram.com/mirirnet/
+
+- 나의 실시간 데이터 처리 도전기
+    - 정적/동적 크롤링
+    - 강동우
+
+- 객체지향 파이썬을 위하여
+    - [코딩의 신 아샬](https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA)
+    - 파이썬은 객체지향 언어입니다. 웹 개발을 하면서 이 사실을 잊지 않으려면 어떻게 해야 할까요?
+    - 위임
+        - 썩지말자 Layer
+    - [https://ko.onepredict.ai/](https://ko.onepredict.ai/) 채용중
+
+- HW 아무것도 모르는채로 블루투스 디바이스 만들기
+    - Circuitpython으로 BLE 날로먹기
+    - 김슬
 ```
+
+발표자 | 제목 | 한 줄 소개
+-- | -- | --
+이강원 | Numerical Methods in Scipy | https://github.com/kangwonlee/nmisp
+한성민 | 고랭 코리아 커뮤니티를 소개합니다! | 고랭 코리아에 대한 소개 및 8월 5~6일 진행되었던, 고퍼콘 코리아 2023의 뒷 이야기를 짧은 라이트닝 토크 세션을 통해 전합니다!
+차영호 | setup-python을 내가 원하는 환경에서 실행해도 될까? (Feat. Github Actions) | Centos/Rocky Linux 에서 setup-python 구동시켜보기(안될수도 있음)
+김지은 | 프리랜서 1년 8개월 차 돌아보기 | 파이썬으로 밥벌이한 1년 8개월 간의 이야기를 해보려고 합니다
+민경국 | 모든 파이프라인 엔지니어의 평화를 빕니다 | 오래전 디지털 풍물놀이 디지노리를 만들었습니다.
+조현진 | 공공기관에서 ‘비 전공자’가 전산도 ‘같이’하면서 사는 이야기 | 전산 맛만 본 사람이 공공기관에서 전산으로 고통받는 이야기
+강동우 | 나의 실시간 데이터 처리 도전기 | 저는 안정성있는 데이터 파이프라인 구축하는 데이터 엔지니어가 되고 싶은 0년차 개발자 강동우입니다.
+아샬 | 객체지향 파이썬을 위하여 | 파이썬은 객체지향 언어입니다. 웹 개발을 하면서 이 사실을 잊지 않으려면 어떻게 해야 할까요?
+김슬 | HW 아무것도 모르는채로 블루투스 디바이스 만들기 | Circuitpython으로 BLE 날로먹기
+김무훈 | 사진으로 둘러보는 지난 파이콘 | 사진과 함께 여러 지난 파이콘을 자원봉사, 재정지원의 도움으로 참석한 이야기를 소개합니다.
+
+
+### END
+![pycon2023 end](https://pbs.twimg.com/media/F3a20xBbwAA37Lo?format=jpg&name=4096x4096)
