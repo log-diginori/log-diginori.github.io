@@ -1,11 +1,16 @@
 # ML outlier detection
 ::: tip Orz ... peace of mind
-- 데이터 파이프라인 구성과 관리를 위해 Airflow 사용
-- 하지만 장애는 피로한다.
-- 그래서 outlier detection / anomaly detection 을 살펴보자 !
+- 데이터 파이프라인 구성과 관리를 위해 [Apache Airflow](https://airflow.apache.org/) 사용
+- 하지만 장애는 Airflow 와는 별도로 지속적으로 발생하고 ...
+![소화불량](https://gvsc.rajephon.dev/before.jpg)
+
+- 그러 그러 해서 outlier detection / anomaly detection 에 관심이 생김 !
 :::
 
-### start
+### Discovery
+- [airflow provider anomaly detection github](https://github.com/andrewm4894/airflow-provider-anomaly-detection) 관련 오픈 소스 포착
+![airflow-provider-anomaly-detection](https://user-images.githubusercontent.com/10396850/260209900-dfd16842-4404-4ccb-a01f-3237e60b635b.png)
+
 - This post started with the article below. Thank you very much.
 - [Painless Anomaly Detection with Apache Airflow](https://medium.com/apache-airflow/painless-anomaly-detection-with-apache-airflow-dfd83f320a9e)
 ![Data observability is so hot right now](https://miro.medium.com/v2/resize:fit:640/format:webp/1*d6ExBjGqE3r8G8_ECfbFHQ.jpeg)

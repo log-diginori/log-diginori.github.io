@@ -19,7 +19,7 @@
 - 파이썬으로 하늘을 나는법
 
 ### 러스트 파이썬
-- Jeong YunWon - https://github.com/youknowone
+- Jeong YunWon - [https://github.com/youknowone](https://github.com/youknowone), [https://youknowone.github.io/](https://youknowone.github.io/)
 - [https://2023.pycon.kr/session/48](https://2023.pycon.kr/session/48)
 - [https://rustpython.github.io](https://rustpython.github.io/)
 [rustPytho](https://user-images.githubusercontent.com/10396850/260189197-296a1674-7806-4174-b6b3-95d6fb161310.jpeg)
@@ -53,3 +53,33 @@
 - 나는 아래와 같이 해봤다. 이렇게 저렇게 해봤는데 이게 맘에 들엇다.  [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)에 대한 링크도 아래에 표기되어 있다.
 
 ![내가 해본거](https://user-images.githubusercontent.com/10396850/260206540-b4a71220-3f08-4582-81d4-8d6d834b6c10.png)
+
+### 리스트와 딕셔너리 학습을 위한 패키지 개발 여정
+- [한상곤](https://github.com/sigmadream)
+- [https://pypi.org/project/melon-top100/](https://pypi.org/project/melon-top100/)
+- 열역학을 듣고온 수강생에게 덧샘 뺄샘을 약간 모욕적이다.
+- [Alison Hill, PhD](https://www.apreshill.com/) 와 고민에 붙여 ...
+- 더 많은 파이썬 교육용 배포 팩키지가 많들어 지길 원한다.
+
+
+### MLOps: Model Serving Architecture with BentoML
+- [MLOps 의 분야중 하나인 Model Serving 에 대해 개략적인 내용을 정리해보려합니다. BentoML이라는 프레임워크를 통해 Model Serving 이라는 분야에서 어떤 것들을 해야하는지 설명](https://2023.pycon.kr/session/7)
+- MLOps 는 무엇인가? 모델을 만들기를 뺀 모든것, 현생(학계) 에서 ML 박사(회사)였던 내가 이 세계에서는 쉘크립트 마스트(석사)?
+- 모델서빙 생태계 - ML 플랫폼(Kubeflow AWS SageMaker) -> 모델 서빙 플랫폼(Yatai) -> 모델 서빙 프레임워크(벤토) -> 모델 만들기(파이토치, 텐서플로우)
+- 모델 서빙 플랫폼 + 모델 서빙 프레임워크가 오늘 주제
+- 모델 서빙 플랫폼는 웹프레임워와 공통점이 많다 - 차이점은 비지니스로직이 없고 / 디스크IO 도 없다. 요청 받아서 모델에게 전달만 해주면 끄읏
+- 플랫폼 영영인 Kserv 가 있지만 ... 벤토가 좋다.
+- API + 벡엔드 모델 워크(러너)
+- 벤토에서는 모델을 저장하면 버전 관리를 해준다. s3 업로드도 가능하다.
+- Yatai 로 같이 운영하면 docker 처럼 push pull ... 가능
+- 벤토에서 모델을 갖고 cmd 를 하면 스웨거도 제공
+- fastAIP 와 차이는 버저닝이 없고 모델 서빙 부분과 하나로 뭉쳐저 있어 성능적 측면이 다르다 벤토의 개발모드는 하나루 뭉쳐있다.
+- 모델서버의 성능 튜닝은 워커, cpu, 워커/프로세스 설정, batchable option - 처리량은 증가하지만 처리속도는 느리다. 잘 생각하고 테스트 하고 써야한다. 안쓰는 방향으로 쓰고 있다. 모델의 특성에 따라 다르다.
+- 벤토:OpenLLM 이라는 것도 있다.
+- 배치사이즈가 커지만 pydantic 를 써서 직열화 시간을 줄이는 것이 가능하다.
+- 판다스 사용하는 인스턴스는 느리다. modin 으로 하면 대안이 된다. 멀티 코어를 사용하니까. 속도가 중요하다면 쇼핑처럼
+- 모델 서빙 플랫폼(Yatai, Kserver) - 버저닝, 모니터링 - 어떤 밴토를 띄우고 러너는 몇개 api 서버는 몇개 ... k8s 에다 알아서 ... 
+- Yatai, 벤토의 데모는 공식 싸이트에서 미니쿠베 이용해서 시연이 가능하다.
+- 벤토는 모든 ML.Framework 와 연결가능하다.
+- 고성능이 필요하다면 triton-inference-server 는 매우 좋은 선택 - 벤토에서 러너로 지원이 가느하다. 공식 문서를 찾아 보자.
+- [질문] 발표에서 보여준 프로파일링은 어떻게 하나요? [프로파일링은 파이참에서 c프로파일링으로 사용한다.](https://plugins.jetbrains.com/plugin/16536-line-profiler) 발표처럼 GUI 를 제공한다.
