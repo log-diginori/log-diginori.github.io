@@ -23,5 +23,8 @@ ref-1 의 실습 코드를 포크 하여
 ### ref
 - 1. [이상 탐지를 위한 다변량, 다단계, LSTM](https://medium.com/@andrewm4894/multi-variate-multi-step-lstm-for-anomaly-detection-ac78ae990a0)
 - 2. [베어링의 진동센서 데이터에서 이상 감지, 시계열 데이터에 대한 이상 탐지를 위한 심층 학습 신경망 만들기](https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-5/)
-
-![딥 러닝 및 LSTM](https://developer.ibm.com/developer/default/tutorials/iot-deep-learning-anomaly-detection-5/images/image1.png)
+- 3. [기계 학습(scikit-learn, pandas)을 사용한 시스템 로그의 이상 탐지](https://medium.com/@lfoster49203/anomaly-detection-in-system-logs-using-machine-learning-scikit-learn-pandas-b7e893ad0a95)
+- 4. [복잡한 쿼리 언어나 추가 구성 없이 비정상적인 로그 패턴에 대해 자동으로 경고합니다 data dog](https://www.datadoghq.com/dg/logs/log-anomaly-detection/?utm_source=advertisement&utm_medium=search&utm_campaign=dg-google-logs-apac-loganomalydetection&utm_keyword=anomaly%20detection%20in%20log%20files&utm_matchtype=p&utm_campaignid=15422044009&utm_adgroupid=135367265239&gad=1&gclid=Cj0KCQjwoeemBhCfARIsADR2QCsBCjjVfkFXrEkBH5narjn4OMhb5Z71enINZ9LXWPf4KVXdtBCjwL0aAg7rEALw_wcB)
+- 5. [기계 학습을 통한 로그 분석: ML/AI를 사용하여 로그를 분석하는 자동화된 접근 방식](https://www.zebrium.com/blog/part-1-machine-learning-for-logs)
+- 6. [논문:DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://users.cs.utah.edu/~lifeifei/papers/deeplog.pdf)
+- 7. [github.python:DeepLog: 딥러닝을 통한 시스템 로그의 이상 탐지 및 진단](https://github.com/Thijsvanede/DeepLog)
