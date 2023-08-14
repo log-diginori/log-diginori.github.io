@@ -1,15 +1,21 @@
 ---
 title: PYCON 2023
-image: https://pbs.twimg.com/media/F3a20xBbwAA37Lo?format=jpg&name=4096x4096
+ogImage: https://pbs.twimg.com/media/F3a20xBbwAA37Lo?format=jpg&name=4096x4096
+metaTitle: PYCON2023
+meta:
+    - name: og:description
+      content: 다시, 우리, 파이콘2023 참관 글적이
+    - name: og:image
+      content: https://pbs.twimg.com/media/F3a20xBbwAA37Lo?format=jpg&name=4096x4096
 ---
 # PYCON 2023
 - [https://2023.pycon.kr/session/schedule](https://2023.pycon.kr/session/schedule)
-::: tip 
-- 다시
-- 우리
-- 피똥
+::: tip 3줄요약
+- 다시 - 메인 로고는 BACK 과 같이 코로나 전으로 돌아가는 힘을 느낌
+- 우리 - 조금은 서로 조심스럽지만 배려가 깔려있는 우리 모두를 위한 축제
+- 피똥 - 음악을 만들고 자바스크립트를 몰라도 웹을 만드는 파이썬 재밋다 
 
-2023.08.11-13 COEX 그랜드볼룸
+2023.08.12-13 COEX 그랜드볼룸 1F 2F
 :::
 
 ![start](https://user-images.githubusercontent.com/10396850/260189097-33b34f86-8904-4829-ba9f-0cd48bf93838.jpeg)
