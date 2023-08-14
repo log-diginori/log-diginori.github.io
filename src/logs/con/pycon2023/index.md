@@ -96,7 +96,7 @@ meta:
 - [질문] 발표에서 보여준 프로파일링은 어떻게 하나요? [프로파일링은 파이참에서 c프로파일링으로 사용한다.](https://plugins.jetbrains.com/plugin/16536-line-profiler) 발표처럼 GUI 를 제공한다.
 
 ### Python으로 전자음악 작곡하기
-![파이썬 음악 만들기](https://github.com/log-diginori/log-diginori.github.io/assets/10396850/84fefda9-6153-4207-8c7f-e43c871278ed)
+![파이썬 음악 만들기](https://user-images.githubusercontent.com/10396850/260285573-2cfbf3e7-568e-4178-a473-c2507be58dff.jpeg)
 - [python으로 numpy와 pedalboard를 이용해서 신디사이저를 구현해봅니다](https://2023.pycon.kr/session/28)
 - 3분 길의의 음악을 작곡하려면 8백만게 값을 ...
 - 인간의 귀에 음악처럼 들리도록 하는 연속된 값을 만들어 내는 것이 신디사이저
