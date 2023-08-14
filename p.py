@@ -1,4 +1,5 @@
-for i in range(1, 11):
-    for j in range(i):
-        print("*", end=" ") if j == i - 1 else print(" ", end=" ") # Print * or space depending on the level and row number.
-    print() # Move to the next line after each row.
+for i in range(10, -1, -1):
+    print((("*" * (2 * i - 1)).center(20)))
+
+for i in range(1, 10):
+    print((("*" * (2 * i - 1)).center(20)))

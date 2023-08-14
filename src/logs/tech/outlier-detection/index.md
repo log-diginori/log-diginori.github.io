@@ -18,7 +18,7 @@
 ### Draft Architects
 ![image](https://github.com/log-diginori/log-diginori.github.io/assets/10396850/1f5c2361-d27b-4718-813f-2ad0ef4320cd)
 
-ref-1 의 실습 코드를 포크 하여 
+(작성중 ...)
 
 ### ref
 - 1. [이상 탐지를 위한 다변량, 다단계, LSTM](https://medium.com/@andrewm4894/multi-variate-multi-step-lstm-for-anomaly-detection-ac78ae990a0)
@@ -28,3 +28,5 @@ ref-1 의 실습 코드를 포크 하여
 - 5. [기계 학습을 통한 로그 분석: ML/AI를 사용하여 로그를 분석하는 자동화된 접근 방식](https://www.zebrium.com/blog/part-1-machine-learning-for-logs)
 - 6. [논문:DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://users.cs.utah.edu/~lifeifei/papers/deeplog.pdf)
 - 7. [github.python:DeepLog: 딥러닝을 통한 시스템 로그의 이상 탐지 및 진단](https://github.com/Thijsvanede/DeepLog)
+- 8. [AIOps:loglizer](https://github.com/logpai/loglizer)
+- 9. [github.AIopsTools](https://github.com/jixinpu/aiopstools)
