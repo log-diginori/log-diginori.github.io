@@ -5,6 +5,7 @@
 ![소화불량](https://gvsc.rajephon.dev/before.jpg)
 
 - 그러 그러 해서 outlier detection / anomaly detection 에 관심이 생김 !
+- 데이터 엔지니어링 팀이 답해야 하는 가장 중요한 질문은? 데이터 "정상"으로 유무 확인
 :::
 
 ### Discovery
@@ -30,3 +31,7 @@
 - 7. [github.python:DeepLog: 딥러닝을 통한 시스템 로그의 이상 탐지 및 진단](https://github.com/Thijsvanede/DeepLog)
 - 8. [AIOps:loglizer](https://github.com/logpai/loglizer)
 - 9. [github.AIopsTools](https://github.com/jixinpu/aiopstools)
+
+- 10. [Prophet 라이브러리를 사용한 Airflow DAG의 이상 탐지](https://www.mikulskibartosz.name/airflow-prophet-anomaly-detection/)
+- 11. [python-prophet-사용하기](https://velog.io/@convin305/python-prophet-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- 12. [시계열 예측 패키지 Prophet 소개](https://hyperconnect.github.io/2020/03/09/prophet-package.html)
