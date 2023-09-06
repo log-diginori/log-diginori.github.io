@@ -181,7 +181,7 @@ export default {
         {
           text: "Conference",
           collapsible: true,
-          children: ["/logs/con/pycon2023/"],
+          children: ["/logs/con/pycon2023/", "/logs/con/sparkkoreauser2023/"],
         },
         {
           text: "Travel",
